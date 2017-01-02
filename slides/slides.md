@@ -67,7 +67,8 @@ and is itself set on fire by **hell**.
 # Q1
 
 ---
-## Outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
 
 ---
 <span class="ref">7</span>
@@ -85,7 +86,8 @@ It is a **restless evil**, full of **deadly poison**.
 # Q2
 
 ---
-## Outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
 
 ---
 <span class="ref">9</span>
@@ -103,7 +105,8 @@ My brothers and sisters, this **should not be**.
 # Q3
 
 ---
-## Outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
 
 ---
 ## Closing verse
