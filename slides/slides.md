@@ -62,6 +62,13 @@ It **corrupts** the whole body, <br/>
 sets the whole **course** of one’s life on fire, <br/>
 and is itself set on fire by **hell**.
 
+>>>
+Mar 7:20 — Mar 7:23
+
+20 He went on: “What comes out of a person is what defiles them. 21 For it is from within, out of a person’s heart, that evil thoughts come—sexual immorality, theft, murder, 22 adultery, greed, malice, deceit, lewdness, envy, slander, arrogance and folly. 23 All these evils come from inside and defile a person.”
+
+
+
 ---
 <!-- .slide: data-background="white" -->
 # Q1
