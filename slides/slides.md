@@ -49,16 +49,20 @@ My brothers and sisters, this **should not be**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
-1. **World of Evil** <span class="ref">(6)</span>
-2. **Restless Evil** <span class="ref">(7-8)</span>
-3. **Praise and Cursing** <span class="ref">(9-10)</span>
+1. **Steering** <span class="ref">(6)</span>
+2. **Subjugation** <span class="ref">(7-8)</span>
+3. **Schizophrenia** <span class="ref">(9-10)</span>
 
 ---
 <span class="ref">3</span>
 When we put **bits** <br/>
 into the mouths of **horses** <br/>
-to make them obey us, <br/>
+to make them **obey** us, <br/>
 we can **turn** the whole animal.
+
+>>>
++ **steering**: direction, course
++ **subjugation**: control, power, obey
 
 ---
 <span class="ref">4</span>
@@ -67,22 +71,39 @@ Or take **ships** as an example.
 Although they are so **large** <br/>
 and are driven by strong **winds**,
 
-they are steered by a very small **rudder** <br/>
-wherever the pilot wants to go.
+they are **steered** by a very small **rudder** <br/>
+wherever the pilot **wants** to go.
+
+>>>
++ steering
++ subjugation
 
 ---
 <span class="ref">5</span>
 Consider what a great **forest** <br/>
 is set on **fire** by a small **spark**.
 
+>>>
++ *how great a fire* kindles
+  + *how great a wood* (forest)
++ **consumes** entire forest
++ **uncontainable** / uncontrollable
++ what took **years** to build
+  + consumed in **minutes**
+
 ---
 <span class="ref">6</span>
 The **tongue** also is a **fire**, <br/>
 a **world of evil** among the parts of the body.
 
-It **corrupts** the whole body, <br/>
-sets the whole **course** of one’s life on fire, <br/>
-and is itself set on fire by **hell**.
+>>>
++ *world* (ὁ κόσμος): **totality**, complete ordering
++ every evil can be **expressed** through tongue
++ not **exclusive** to tongue
+  + e.g., **eyes**, finger, hands
+  + but **especially** tongue
++ **body** holy by God
+  + but how we **use** it: world of evil
 
 ---
 <span class="ref">Mark 7:20</span>
@@ -95,6 +116,31 @@ that evil thoughts come —
 sexual immorality, theft, murder, adultery, <br/>
 greed, malice, deceit, lewdness, <br/>
 envy, slander, arrogance and folly.
+
+---
+<span class="ref">6</span>
+It **corrupts** the whole body,
+
+>>>
++ *corrupter* (ἡ σπιλοῦσα): spot, stain
+  + all **else** could be holy, but
+  + **one** unholy utterance, and
+  + **focus** on the stain
+  + like white tablecloth with wine spot
+
+---
+<span class="ref">6</span>
+sets the whole **course** of one’s life on fire, <br/>
+and is itself set on fire by **hell**.
+
+>>>
++ *course of life* (τὸν τροχὸν τῆς γενέσεως):
+  + **wheel**, run: sequence / pattern
++ *on fire* (φλογίζουσα): inflame, arouse
+  + c.f. 5 *kindle*
+  + easily **angered**, chip
++ **hell** (τῆς γεέννης): valley of **Hinnom**
+  + trash/bodies **burned**
 
 ---
 <!-- .slide: data-background="white" -->
