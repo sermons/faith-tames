@@ -219,15 +219,15 @@ and they do it.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
-## David Platt, <em>Radical</em>
-Everything in all **creation** responds <br/>
-in **obedience** to the Creator ...
+<span class="ref">(David Platt)</span>
+Everything in all **creation** <br/>
+responds in **obedience** to the Creator ...
 
 until we get to **you and me**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
-## David Platt, <em>Radical</em>
+<span class="ref">(David Platt)</span>
 We have the **audacity** <br/>
 to look God in the face and say, "**No**".
 
