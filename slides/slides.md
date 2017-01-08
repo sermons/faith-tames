@@ -4,7 +4,15 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# Does what I **say**
+# **matter** to God?
+
+>>>
++ I'm a **Christian**
+  + church, pray, read Bible
++ But my **friends** talk a certain way
+  + I do the **same** when I'm with them
++ **Family** (esp if non-Chr)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
@@ -14,6 +22,9 @@
 + Loves **Impartially** <span class="ref">(2:5-9)</span>
 + **Acts** <span class="ref">(2:15-24)</span>
 + Tames the **Tongue** <span class="ref">(3:6-10)</span>
+
+>>>
+2:16 If one of you says to them, “Go in peace; keep warm and well fed,” but does nothing about their physical needs, what good is it?
 
 ---
 <span class="ref">6</span>
@@ -167,6 +178,9 @@ and is itself set on fire by **hell**.
 # can set the **course**
 # of my life on **fire**?
 
+>>>
++ "sticks + stones"
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
@@ -188,7 +202,8 @@ but **no** human being can tame the **tongue**. </br>
 + *tame*: **subdue**, master, control
 + *animals*: wild **beasts**, brutes
 + *by mankind*: (bend) to the **nature** of man
-+ *the tongue*, on the other hand: **contrast**
++ *the tongue*, on the other hand:
+  + **contrast** animals vs our speech
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
@@ -210,6 +225,9 @@ in **obedience** to the Creator ...
 
 until we get to **you and me**.
 
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
+## David Platt, <em>Radical</em>
 We have the **audacity** <br/>
 to look God in the face and say, "**No**".
 
@@ -224,6 +242,8 @@ It is a **restless evil**, full of **deadly poison**.
 + *poison*: as of snake **venom** (Rom3:13)
   + **rust**: corrosion (Jam5:3)
 + *deadly*: **brings** / carries death
++ So if tongue that **bad**,
+  + just keep **silent**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BcjdbyKWquw-hush.jpg" -->
@@ -306,7 +326,12 @@ My brothers and sisters, this **should not be**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Is my **pattern** of speech
+# **different** at home,
+# with friends, or at church?
+
+>>>
++ integrity / integral
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
