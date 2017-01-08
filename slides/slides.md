@@ -54,6 +54,18 @@ My brothers and sisters, this **should not be**.
 3. **Praise and Cursing** <span class="ref">(9-10)</span>
 
 ---
+3
+When we put bits into the mouths of horses to make them obey us, we can turn the whole animal.
+
+---
+4
+Or take ships as an example. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot wants to go.
+
+---
+5
+Consider what a great forest is set on fire by a small spark.
+
+---
 <span class="ref">6</span>
 The **tongue** also is a **fire**, <br/>
 a **world of evil** among the parts of the body.
@@ -66,8 +78,6 @@ and is itself set on fire by **hell**.
 Mar 7:20 — Mar 7:23
 
 20 He went on: “What comes out of a person is what defiles them. 21 For it is from within, out of a person’s heart, that evil thoughts come—sexual immorality, theft, murder, 22 adultery, greed, malice, deceit, lewdness, envy, slander, arrogance and folly. 23 All these evils come from inside and defile a person.”
-
-
 
 ---
 <!-- .slide: data-background="white" -->
