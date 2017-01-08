@@ -97,21 +97,22 @@ a **world of evil** among the parts of the body.
 
 >>>
 + *world* (ὁ κόσμος): **totality**, complete ordering
-+ every evil can be **expressed** through tongue
+  + every *unrighteousness* can be **expressed** through tongue
 + not **exclusive** to tongue
   + e.g., **eyes**, finger, hands
   + but **especially** tongue
-+ *tongue* represents **speech**: me'to-ny-my
-+ **body** holy, created by God
+  + **stands**: established
++ represents **speech**: me'to-ny-my
+  + **body** holy, created by God
   + how we **use** it: world of evil
 
 ---
 <span class="ref">Mark 7:20</span>
-What comes out of a person is what defiles them.
+What comes **out** of a person is what defiles them.
 
 <span class="ref">21</span>
-For it is from within, out of a person’s heart, <br/>
-that evil thoughts come —
+For it is from **within**, out of a person’s **heart**, <br/>
+that **evil** thoughts come —
 
 sexual immorality, theft, murder, adultery, <br/>
 greed, malice, deceit, lewdness, <br/>
