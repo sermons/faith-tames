@@ -189,25 +189,25 @@ but **no** human being can tame the **tongue**. </br>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
-## David Platt, <em>Radical</em>
+## David Platt, "Radical"
 God beckons **storm clouds** and they come.
 
-He tells the **wind** to blow and the **rain** to fall,
+He tells the **wind** to blow and the **rain** to fall, <br/>
 and they **obey** immediately.
 
-He speaks to the **mountains**, "You go there,"
-and He says to the **seas**, "You stop here,"
+He speaks to the **mountains**, "You go there," <br/>
+and He says to the **seas**, "You stop here," <br/>
 and they do it.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 ## David Platt, <em>Radical</em>
-Everything in all **creation** responds
+Everything in all **creation** responds <br/>
 in **obedience** to the Creator ...
 
 until we get to **you and me**.
 
-We have the **audacity**
+We have the **audacity** <br/>
 to look God in the face and say, "**No**".
 
 ---
@@ -225,28 +225,28 @@ It is a **restless evil**, full of **deadly poison**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BcjdbyKWquw-hush.jpg" -->
 ## Mark 2:5-7 <span class="ref">(NIV) (p.1/2)</span>
-When Jesus saw their **faith**, he said to the **paralyzed** man,
+When Jesus saw their **faith**, he said to the **paralyzed** man, <br/>
 “Son, your **sins** are forgiven.”
 
 <span class="ref">6</span>
-Now some **teachers** of the law were sitting there,
+Now some **teachers** of the law were sitting there, <br/>
 **thinking** to themselves,
 
 <span class="ref">7</span>
-“**Why** does this fellow talk like that?
+“**Why** does this fellow talk like that? <br/>
 He’s **blaspheming**! Who can forgive sins but **God** alone?”
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BcjdbyKWquw-hush.jpg" -->
 ## Mark 2:8-9 <span class="ref">(NIV) (p.2/2)</span>
-Immediately Jesus **knew** in his spirit that
+Immediately Jesus **knew** in his spirit that <br/>
 this was what they were **thinking** in their **hearts**,
 
-and he said to them, “**Why** are you thinking these things?
+and he said to them, “**Why** are you thinking these things? <br/>
 <span class="ref">9</span>
 Which is **easier**:
 
-to say to this paralyzed man, ‘Your sins are **forgiven**,’
+to say to this paralyzed man, ‘Your sins are **forgiven**,’ <br/>
 or to say, ‘Get up, take your mat and **walk**’?
 
 >>>
@@ -262,7 +262,8 @@ slow to **speak** and slow to become **angry**
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# How have I **tried** <br/> and **failed**
+# to **control** my **tongue**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
