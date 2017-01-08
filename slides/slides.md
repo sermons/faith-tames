@@ -112,7 +112,7 @@ a **world of evil** among the parts of the body.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
-<span class="ref">Mark 7:20</span>
+## Mark 7:20 <span class="ref">(NIV)</span>
 What comes **out** of a person is what defiles them.
 
 <span class="ref">21</span>
@@ -163,7 +163,9 @@ and is itself set on fire by **hell**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Do I believe my **words**
+# can set the **course**
+# of my life on **fire**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
