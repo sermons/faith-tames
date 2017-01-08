@@ -254,7 +254,8 @@ and with it we **curse** human beings, <br/>
 who have been made in God’s **likeness**.
 
 >>>
-+
++ *praise* (εὐλογοῦμεν): **bless**, good word
++ *curse* (καταρώμεθα): pronounce as **evil**
 
 ---
 <span class="ref">10</span>
