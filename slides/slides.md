@@ -128,10 +128,11 @@ It **corrupts** the whole body,
 
 >>>
 + *corrupter* (ἡ σπιλοῦσα): spot, stain
-  + all **else** could be holy, but
+  + that which **spoils** all the body
++ all **else** could be holy, but
   + **one** unholy utterance, and
-  + **focus** on the stain
-  + like white tablecloth with wine spot
++ **focus** on the stain
+  + like white **tablecloth** with wine spot
 
 ---
 <span class="ref">6</span>
@@ -166,6 +167,11 @@ but **no** human being can **tame the tongue**. </br>
 It is a **restless evil**, full of **deadly poison**.
 
 ---
+<span class="ref">1:19</span>
+Everyone should be quick to **listen**, <br/>
+slow to **speak** and slow to become **angry**
+
+---
 <!-- .slide: data-background="white" -->
 # Q2
 
@@ -183,11 +189,6 @@ who have been made in God’s **likeness**.
 <span class="ref">10</span>
 Out of the **same** mouth come **praise** and **cursing**. <br/>
 My brothers and sisters, this **should not be**.
-
----
-<span class="ref">1:19</span>
-Everyone should be quick to **listen**, <br/>
-slow to **speak** and slow to become **angry**
 
 ---
 <!-- .slide: data-background="white" -->
