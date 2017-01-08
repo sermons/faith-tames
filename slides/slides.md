@@ -118,6 +118,11 @@ Out of the **same** mouth come **praise** and **cursing**. <br/>
 My brothers and sisters, this **should not be**.
 
 ---
+1:19
+Everyone should be quick to **listen**, <br/>
+slow to **speak** and slow to become **angry**
+
+---
 <!-- .slide: data-background="white" -->
 # Q3
 
