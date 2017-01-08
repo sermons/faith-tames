@@ -50,7 +50,7 @@ My brothers and sisters, this **should not be**.
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
 1. **Course** <span class="ref">(v6)</span>
 2. **Control** <span class="ref">(v7-8)</span>
-3. **Schizophrenia** <span class="ref">(v9-10)</span>
+3. **Cleanliness** <span class="ref">(v9-10)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-12dXKDujs40-horse_bridle.jpg" -->
@@ -170,6 +170,9 @@ and is itself set on fire by **hell**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
+1. Course <span class="ref">(v6)</span>
+2. **Control** <span class="ref">(v7-8)</span>
+3. Cleanliness <span class="ref">(v9-10)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M7fi58_dF5k-cow.jpg" -->
@@ -268,6 +271,9 @@ slow to **speak** and slow to become **angry**
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
+1. Course <span class="ref">(v6)</span>
+2. Control <span class="ref">(v7-8)</span>
+3. **Cleanliness** <span class="ref">(v9-10)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8ALMAJP0Ago-worship_crowd.jpg" -->
@@ -305,6 +311,9 @@ My brothers and sisters, this **should not be**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
+1. **Course** <span class="ref">(v6)</span>
+2. **Control** <span class="ref">(v7-8)</span>
+3. **Cleanliness** <span class="ref">(v9-10)</span>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
