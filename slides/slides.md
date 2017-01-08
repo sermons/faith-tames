@@ -160,11 +160,38 @@ and is itself set on fire by **hell**.
 <span class="ref">7</span>
 All kinds of **animals**, birds, <br/>
 reptiles and sea creatures <br/>
-are being **tamed** and have been tamed by mankind,
+are being **tamed** and have been tamed by **mankind**,
 
 <span class="ref">8</span>
-but **no** human being can **tame the tongue**. </br>
+but **no** human being can tame the **tongue**. </br>
 It is a **restless evil**, full of **deadly poison**.
+
+>>>
++ *tame*: **subdue**, master, control
++ *animals*: wild **beasts**, brutes
++ *by mankind*: (bend) to the **nature** of man
++ *the tongue*, on the other hand: **contrast**
+
+---
+## David Platt, <em>Radical</em>
+God beckons **storm clouds** and they come.
+
+He tells the **wind** to blow and the **rain** to fall,
+and they **obey** immediately.
+
+He speaks to the **mountains**, "You go there,"
+and He says to the **seas**, "You stop here,"
+and they do it.
+
+---
+## David Platt, <em>Radical</em>
+Everything in all **creation** responds
+in **obedience** to the Creator ...
+
+until we get to **you and me**.
+
+We have the **audacity**
+to look God in the face and say, "**No**".
 
 ---
 <span class="ref">1:19</span>
