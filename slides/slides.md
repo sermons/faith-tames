@@ -133,7 +133,7 @@ envy, slander, arrogance and folly.
 It **corrupts** the whole body,
 
 <div class="caption">
-img &copy; 2009 
+img &copy; 2009
 [Gunnar Grimnes](https://www.flickr.com/photos/gromgull/3375802661),
 CC-BY 2.0
 </div>
@@ -300,7 +300,9 @@ My brothers and sisters, this **should not be**.
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
 
 ---
-## Closing verse
+## James 3:2 <span class="ref">(NIV)</span>
+Anyone who is never at **fault** in what they **say** </br>
+is **perfect**, able to keep their **whole body** in check.
 
 ---
 
