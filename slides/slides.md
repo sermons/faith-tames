@@ -274,11 +274,15 @@ slow to **speak** and slow to become **angry**
 <span class="ref">9</span>
 With the tongue we **praise** our Lord and Father,
 
+>>>
++ *praise* (εὐλογοῦμεν): **bless**, good word
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/fist.jpg" -->
 and with it we **curse** human beings, <br/>
 who have been made in God’s **likeness**.
 
 >>>
-+ *praise* (εὐλογοῦμεν): **bless**, good word
 + *curse* (καταρώμεθα): pronounce as **evil**
 
 ---
