@@ -54,16 +54,26 @@ My brothers and sisters, this **should not be**.
 3. **Praise and Cursing** <span class="ref">(9-10)</span>
 
 ---
-3
-When we put bits into the mouths of horses to make them obey us, we can turn the whole animal.
+<span class="ref">3</span>
+When we put **bits** <br/>
+into the mouths of **horses** <br/>
+to make them obey us, <br/>
+we can **turn** the whole animal.
 
 ---
-4
-Or take ships as an example. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot wants to go.
+<span class="ref">4</span>
+Or take **ships** as an example.
+
+Although they are so **large** <br/>
+and are driven by strong **winds**,
+
+they are steered by a very small **rudder** <br/>
+wherever the pilot wants to go.
 
 ---
-5
-Consider what a great forest is set on fire by a small spark.
+<span class="ref">5</span>
+Consider what a great **forest** <br/>
+is set on **fire** by a small **spark**.
 
 ---
 <span class="ref">6</span>
@@ -74,10 +84,17 @@ It **corrupts** the whole body, <br/>
 sets the whole **course** of one’s life on fire, <br/>
 and is itself set on fire by **hell**.
 
->>>
-Mar 7:20 — Mar 7:23
+---
+<span class="ref">Mark 7:20</span>
+What comes out of a person is what defiles them.
 
-20 He went on: “What comes out of a person is what defiles them. 21 For it is from within, out of a person’s heart, that evil thoughts come—sexual immorality, theft, murder, 22 adultery, greed, malice, deceit, lewdness, envy, slander, arrogance and folly. 23 All these evils come from inside and defile a person.”
+<span class="ref">21</span>
+For it is from within, out of a person’s heart, <br/>
+that evil thoughts come — 
+
+sexual immorality, theft, murder, adultery, <br/>
+greed, malice, deceit, lewdness, <br/>
+envy, slander, arrogance and folly.
 
 ---
 <!-- .slide: data-background="white" -->
@@ -118,7 +135,7 @@ Out of the **same** mouth come **praise** and **cursing**. <br/>
 My brothers and sisters, this **should not be**.
 
 ---
-1:19
+<span class="ref">1:19</span>
 Everyone should be quick to **listen**, <br/>
 slow to **speak** and slow to become **angry**
 
