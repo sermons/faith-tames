@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 # Faith that <br/> Tames the Tongue
 ## <span class="ref">James 3:6-10</span>
 
@@ -46,7 +46,7 @@ Out of the **same** mouth come **praise** and **cursing**. <br/>
 My brothers and sisters, this **should not be**.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
 1. **Course** <span class="ref">(v6)</span>
 2. **Control** <span class="ref">(v7-8)</span>
@@ -166,7 +166,7 @@ and is itself set on fire by **hell**.
 # Q1
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
 
 ---
@@ -263,7 +263,7 @@ slow to **speak** and slow to become **angry**
 # Q2
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
 
 ---
@@ -296,13 +296,15 @@ My brothers and sisters, this **should not be**.
 # Q3
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 ## James 3:2 <span class="ref">(NIV)</span>
 Anyone who is never at **fault** in what they **say** </br>
 is **perfect**, able to keep their **whole body** in check.
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" class="empty" -->
 
