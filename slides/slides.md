@@ -48,8 +48,8 @@ My brothers and sisters, this **should not be**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
-1. **Steer** <span class="ref">(v6)</span>
-2. **Subdue** <span class="ref">(v7-8)</span>
+1. **Course** <span class="ref">(v6)</span>
+2. **Control** <span class="ref">(v7-8)</span>
 3. **Schizophrenia** <span class="ref">(v9-10)</span>
 
 ---
@@ -164,7 +164,6 @@ are being **tamed** and have been tamed by **mankind**,
 
 <span class="ref">8</span>
 but **no** human being can tame the **tongue**. </br>
-It is a **restless evil**, full of **deadly poison**.
 
 >>>
 + *tame*: **subdue**, master, control
@@ -194,6 +193,47 @@ We have the **audacity**
 to look God in the face and say, "**No**".
 
 ---
+<span class="ref">8</span>
+It is a **restless evil**, full of **deadly poison**.
+
+>>>
++ *restless* (ἀκατάστατον): contrary to **standing** firm
+  + unrestrainable, **uncontrollable**
++ *poison*: as of snake **venom** (Rom3:13)
+  + **rust**: corrosion (Jam5:3)
++ *deadly*: **brings** / carries death
+
+---
+## Mark 2:5-7 <span class="ref">(NIV) (p.1/2)</span>
+When Jesus saw their **faith**, he said to the **paralyzed** man,
+“Son, your **sins** are forgiven.”
+
+<span class="ref">6</span>
+Now some **teachers** of the law were sitting there,
+**thinking** to themselves,
+
+<span class="ref">7</span>
+“**Why** does this fellow talk like that?
+He’s **blaspheming**! Who can forgive sins but **God** alone?”
+
+---
+## Mark 2:8-9 <span class="ref">(NIV) (p.2/2)</span>
+Immediately Jesus **knew** in his spirit that
+this was what they were **thinking** in their **hearts**,
+
+and he said to them, “**Why** are you thinking these things?
+<span class="ref">9</span>
+Which is **easier**:
+
+to say to this paralyzed man, ‘Your sins are **forgiven**,’
+or to say, ‘Get up, take your mat and **walk**’?
+
+>>>
++ Not just **spoken** word!
+  + e.g., **vow** of silence
++ Words in our **thoughts**, too!
+
+---
 <span class="ref">1:19</span>
 Everyone should be quick to **listen**, <br/>
 slow to **speak** and slow to become **angry**
@@ -213,9 +253,16 @@ With the tongue we **praise** our Lord and Father,
 and with it we **curse** human beings, <br/>
 who have been made in God’s **likeness**.
 
+>>>
++
+
+---
 <span class="ref">10</span>
 Out of the **same** mouth come **praise** and **cursing**. <br/>
 My brothers and sisters, this **should not be**.
+
+>>>
++
 
 ---
 <!-- .slide: data-background="white" -->
