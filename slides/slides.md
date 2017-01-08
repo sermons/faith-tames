@@ -1,5 +1,5 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-VMphSM-RqBo-snow_walking.jpg" -->
-# Faith that Tames the Tongue
+# Faith that <br/> Tames the Tongue
 ## <span class="ref">James 3:6-10</span>
 
 ---
@@ -53,6 +53,7 @@ My brothers and sisters, this **should not be**.
 3. **Schizophrenia** <span class="ref">(v9-10)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-12dXKDujs40-horse_bridle.jpg" -->
 <span class="ref">3</span>
 When we put **bits** <br/>
 into the mouths of **horses** <br/>
@@ -64,6 +65,7 @@ we can **turn** the whole animal.
 + **subjugation**: control, power, obey
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg" -->
 <span class="ref">4</span>
 Or take **ships** as an example.
 
@@ -78,6 +80,7 @@ wherever the pilot **wants** to go.
 + submission
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Of-NXuECJbE-portugal_forest_fire.jpg" -->
 <span class="ref">5</span>
 Consider what a great **forest** <br/>
 is set on **fire** by a small **spark**.
@@ -91,6 +94,7 @@ is set on **fire** by a small **spark**.
   + consumed in **minutes**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/nasa-modis_wonderglobe_lrg.jpg" -->
 <span class="ref">6</span>
 The **tongue** also is a **fire**, <br/>
 a **world of evil** among the parts of the body.
@@ -107,6 +111,7 @@ a **world of evil** among the parts of the body.
   + how we **use** it: world of evil
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-CB8PFQR6E9-finger.jpg" -->
 <span class="ref">Mark 7:20</span>
 What comes **out** of a person is what defiles them.
 
@@ -123,8 +128,15 @@ envy, slander, arrogance and folly.
 + but **speech** from overflow of heart
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/flickr-gromgull-3375802661-wine_spill.jpg" -->
 <span class="ref">6</span>
 It **corrupts** the whole body,
+
+<div class="caption">
+img &copy; 2009 
+[Gunnar Grimnes](https://www.flickr.com/photos/gromgull/3375802661),
+CC-BY 2.0
+</div>
 
 >>>
 + *corrupter* (ἡ σπιλοῦσα): spot, stain
@@ -135,6 +147,7 @@ It **corrupts** the whole body,
   + like white **tablecloth** with wine spot
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-C2a4RGapd8s-light_paint_circle_fire.jpg" -->
 <span class="ref">6</span>
 sets the whole **course** of one’s life on fire, <br/>
 and is itself set on fire by **hell**.
@@ -157,6 +170,7 @@ and is itself set on fire by **hell**.
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-M7fi58_dF5k-cow.jpg" -->
 <span class="ref">7</span>
 All kinds of **animals**, birds, <br/>
 reptiles and sea creatures <br/>
@@ -172,6 +186,7 @@ but **no** human being can tame the **tongue**. </br>
 + *the tongue*, on the other hand: **contrast**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 ## David Platt, <em>Radical</em>
 God beckons **storm clouds** and they come.
 
@@ -183,6 +198,7 @@ and He says to the **seas**, "You stop here,"
 and they do it.
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-IEHPDNk2-8w-matterhorn.jpg" -->
 ## David Platt, <em>Radical</em>
 Everything in all **creation** responds
 in **obedience** to the Creator ...
@@ -193,6 +209,7 @@ We have the **audacity**
 to look God in the face and say, "**No**".
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bPldxRHkTzw-snake.jpg" -->
 <span class="ref">8</span>
 It is a **restless evil**, full of **deadly poison**.
 
@@ -204,6 +221,7 @@ It is a **restless evil**, full of **deadly poison**.
 + *deadly*: **brings** / carries death
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BcjdbyKWquw-hush.jpg" -->
 ## Mark 2:5-7 <span class="ref">(NIV) (p.1/2)</span>
 When Jesus saw their **faith**, he said to the **paralyzed** man,
 “Son, your **sins** are forgiven.”
@@ -217,6 +235,7 @@ Now some **teachers** of the law were sitting there,
 He’s **blaspheming**! Who can forgive sins but **God** alone?”
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-BcjdbyKWquw-hush.jpg" -->
 ## Mark 2:8-9 <span class="ref">(NIV) (p.2/2)</span>
 Immediately Jesus **knew** in his spirit that
 this was what they were **thinking** in their **hearts**,
@@ -234,6 +253,7 @@ or to say, ‘Get up, take your mat and **walk**’?
 + Words in our **thoughts**, too!
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/human-ear-1462020301zmM.jpg" -->
 <span class="ref">1:19</span>
 Everyone should be quick to **listen**, <br/>
 slow to **speak** and slow to become **angry**
@@ -247,6 +267,7 @@ slow to **speak** and slow to become **angry**
 ## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8ALMAJP0Ago-worship_crowd.jpg" -->
 <span class="ref">9</span>
 With the tongue we **praise** our Lord and Father,
 
@@ -258,12 +279,17 @@ who have been made in God’s **likeness**.
 + *curse* (καταρώμεθα): pronounce as **evil**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-w8g2vws1VBQ-stream_water_trickle.jpg" -->
 <span class="ref">10</span>
 Out of the **same** mouth come **praise** and **cursing**. <br/>
 My brothers and sisters, this **should not be**.
 
 >>>
-+
++ v11: fresh + salty/bitter water
++ sister when small: crying, then pose for photo
++ yelling at family, then answer phone sweetly
++ mom pinch ear: embarrassed in public
++ can't argue in the mall
 
 ---
 <!-- .slide: data-background="white" -->
