@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qYanN54gIrI-praying.jpg" -->
 # Faith that <br/> Tames the Tongue
-## <span class="ref">James 3:6-10</span>
+## James 3:6-10
 
 ---
 <!-- .slide: data-background="white" -->
