@@ -17,17 +17,17 @@
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 ## James: **Keep the Faith**
-+ Stands the **Test** <span class="ref">(1:2-12)</span>
-+ Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
-+ Loves **Impartially** <span class="ref">(2:5-9)</span>
-+ **Acts** <span class="ref">(2:15-24)</span>
-+ Tames the **Tongue** <span class="ref">(3:6-10)</span>
++ Stands the **Test** [(1:2-12)](# "ref")
++ Demands a **Change** of Heart [(1:19-25)](# "ref")
++ Loves **Impartially** [(2:5-9)](# "ref")
++ **Acts** [(2:15-24)](# "ref")
++ Tames the **Tongue** [(3:6-10)](# "ref")
 
 >>>
 2:16 If one of you says to them, “Go in peace; keep warm and well fed,” but does nothing about their physical needs, what good is it?
 
 ---
-<span class="ref">6</span>
+[6](# "ref")
 The **tongue** also is a **fire**, <br/>
 a **world of evil** among the parts of the body.
 
@@ -36,36 +36,36 @@ sets the whole **course** of one’s life on fire, <br/>
 and is itself set on fire by **hell**.
 
 ---
-<span class="ref">7</span>
+[7](# "ref")
 All kinds of **animals**, birds, <br/>
 reptiles and sea creatures <br/>
 are being **tamed** and have been tamed by mankind,
 
-<span class="ref">8</span>
+[8](# "ref")
 but **no** human being can **tame the tongue**. <br/>
 It is a **restless evil**, full of **deadly poison**.
 
 ---
-<span class="ref">9</span>
+[9](# "ref")
 With the tongue we **praise** our Lord and Father,
 
 and with it we **curse** human beings, <br/>
 who have been made in God’s **likeness**.
 
-<span class="ref">10</span>
+[10](# "ref")
 Out of the **same** mouth come **praise** and **cursing**. <br/>
 My brothers and sisters, this **should not be**.
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
-## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
-1. **Course** <span class="ref">(v6)</span>
-2. **Control** <span class="ref">(v7-8)</span>
-3. **Cleanliness** <span class="ref">(v9-10)</span>
+## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
+1. **Course** [(v6)](# "ref")
+2. **Control** [(v7-8)](# "ref")
+3. **Cleanliness** [(v9-10)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-12dXKDujs40-horse_bridle.jpg") %> -->
-<span class="ref">3</span>
+[3](# "ref")
 When we put **bits** <br/>
 into the mouths of **horses** <br/>
 to make them **obey** us, <br/>
@@ -77,7 +77,7 @@ we can **turn** the whole animal.
 
 ---
 <!-- .slide: <%= bg("Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg") %> -->
-<span class="ref">4</span>
+[4](# "ref")
 Or take **ships** as an example.
 
 Although they are so **large** <br/>
@@ -92,7 +92,7 @@ wherever the pilot **wants** to go.
 
 ---
 <!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> -->
-<span class="ref">5</span>
+[5](# "ref")
 Consider what a great **forest** <br/>
 is set on **fire** by a small **spark**.
 
@@ -106,7 +106,7 @@ is set on **fire** by a small **spark**.
 
 ---
 <!-- .slide: <%= bg("nasa-modis_wonderglobe_lrg.jpg") %> -->
-<span class="ref">6</span>
+[6](# "ref")
 The **tongue** also is a **fire**, <br/>
 a **world of evil** among the parts of the body.
 
@@ -123,10 +123,10 @@ a **world of evil** among the parts of the body.
 
 ---
 <!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
-## Mark 7:20 <span class="ref">(NIV)</span>
+## Mark 7:20 [(NIV)](# "ref")
 What comes **out** of a person is what defiles them.
 
-<span class="ref">21</span>
+[21](# "ref")
 For it is from **within**, out of a person’s **heart**, <br/>
 that **evil** thoughts come —
 
@@ -140,7 +140,7 @@ envy, slander, arrogance and folly.
 
 ---
 <!-- .slide: <%= bg("flickr-gromgull-3375802661-wine_spill.jpg") %> -->
-<span class="ref">6</span>
+[6](# "ref")
 It **corrupts** the whole body,
 
 [&copy; 2009 Gunnar Grimnes, CC-BY 2.0](https://www.flickr.com/photos/gromgull/3375802661 "caption")
@@ -155,7 +155,7 @@ It **corrupts** the whole body,
 
 ---
 <!-- .slide: <%= bg("unsplash-C2a4RGapd8s-light_paint_circle_fire.jpg") %> -->
-<span class="ref">6</span>
+[6](# "ref")
 sets the whole **course** of one’s life on fire, <br/>
 and is itself set on fire by **hell**.
 
@@ -179,19 +179,19 @@ and is itself set on fire by **hell**.
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
-## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
-1. Course <span class="ref">(v6)</span>
-2. **Control** <span class="ref">(v7-8)</span>
-3. Cleanliness <span class="ref">(v9-10)</span>
+## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
+1. Course [(v6)](# "ref")
+2. **Control** [(v7-8)](# "ref")
+3. Cleanliness [(v9-10)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-M7fi58_dF5k-cow.jpg") %> -->
-<span class="ref">7</span>
+[7](# "ref")
 All kinds of **animals**, birds, <br/>
 reptiles and sea creatures <br/>
 are being **tamed** and have been tamed by **mankind**,
 
-<span class="ref">8</span>
+[8](# "ref")
 but **no** human being can tame the **tongue**. </br>
 
 >>>
@@ -215,7 +215,7 @@ and they do it.
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-<span class="ref">(David Platt)</span>
+[(David Platt)](# "ref")
 Everything in all **creation** <br/>
 responds in **obedience** to the Creator ...
 
@@ -223,13 +223,13 @@ until we get to **you and me**.
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-<span class="ref">(David Platt)</span>
+[(David Platt)](# "ref")
 We have the **audacity** <br/>
 to look God in the face and say, "**No**".
 
 ---
 <!-- .slide: <%= bg("unsplash-bPldxRHkTzw-snake.jpg") %> -->
-<span class="ref">8</span>
+[8](# "ref")
 It is a **restless evil**, full of **deadly poison**.
 
 >>>
@@ -243,26 +243,26 @@ It is a **restless evil**, full of **deadly poison**.
 
 ---
 <!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
-## Mark 2:5-7 <span class="ref">(NIV) (p.1/2)</span>
+## Mark 2:5-7 [(NIV) (p.1/2)](# "ref")
 When Jesus saw their **faith**, he said to the **paralyzed** man, <br/>
 “Son, your **sins** are forgiven.”
 
-<span class="ref">6</span>
+[6](# "ref")
 Now some **teachers** of the law were sitting there, <br/>
 **thinking** to themselves,
 
-<span class="ref">7</span>
+[7](# "ref")
 “**Why** does this fellow talk like that? <br/>
 He’s **blaspheming**! Who can forgive sins but **God** alone?”
 
 ---
 <!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
-## Mark 2:8-9 <span class="ref">(NIV) (p.2/2)</span>
+## Mark 2:8-9 [(NIV) (p.2/2)](# "ref")
 Immediately Jesus **knew** in his spirit that <br/>
 this was what they were **thinking** in their **hearts**,
 
 and he said to them, “**Why** are you thinking these things? <br/>
-<span class="ref">9</span>
+[9](# "ref")
 Which is **easier**:
 
 to say to this paralyzed man, ‘Your sins are **forgiven**,’ <br/>
@@ -275,7 +275,7 @@ or to say, ‘Get up, take your mat and **walk**’?
 
 ---
 <!-- .slide: <%= bg("human-ear-1462020301zmM.jpg") %> -->
-<span class="ref">1:19</span>
+[1:19](# "ref")
 Everyone should be quick to **listen**, <br/>
 slow to **speak** and slow to become **angry**
 
@@ -286,14 +286,14 @@ slow to **speak** and slow to become **angry**
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
-## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
-1. Course <span class="ref">(v6)</span>
-2. Control <span class="ref">(v7-8)</span>
-3. **Cleanliness** <span class="ref">(v9-10)</span>
+## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
+1. Course [(v6)](# "ref")
+2. Control [(v7-8)](# "ref")
+3. **Cleanliness** [(v9-10)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-8ALMAJP0Ago-worship_crowd.jpg") %> -->
-<span class="ref">9</span>
+[9](# "ref")
 With the tongue we **praise** our Lord and Father,
 
 >>>
@@ -309,7 +309,7 @@ who have been made in God’s **likeness**.
 
 ---
 <!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %> -->
-<span class="ref">10</span>
+[10](# "ref")
 Out of the **same** mouth come **praise** and **cursing**. <br/>
 My brothers and sisters, this **should not be**.
 
@@ -331,14 +331,14 @@ My brothers and sisters, this **should not be**.
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
-## Faith that Tames the Tongue <br/> <span class="ref">James 3(a)</span>
-1. **Course** <span class="ref">(v6)</span>
-2. **Control** <span class="ref">(v7-8)</span>
-3. **Cleanliness** <span class="ref">(v9-10)</span>
+## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
+1. **Course** [(v6)](# "ref")
+2. **Control** [(v7-8)](# "ref")
+3. **Cleanliness** [(v9-10)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
-## James 3:2 <span class="ref">(NIV)</span>
+## James 3:2 [(NIV)](# "ref")
 Anyone who is never at **fault** in what they **say** </br>
 is **perfect**, able to keep their **whole body** in check.
 
