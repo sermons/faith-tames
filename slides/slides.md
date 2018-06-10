@@ -34,6 +34,8 @@ It **corrupts** the whole body, <br/>
 sets the whole **course** of one’s life on fire, <br/>
 and is itself set on fire by **hell**.
 
+[James 3:6 (NIV) (p.1/3)](# "ref")
+
 ---
 [7](# "ref")
 All kinds of **animals**, birds, <br/>
@@ -43,6 +45,8 @@ are being **tamed** and have been tamed by mankind,
 [8](# "ref")
 but **no** human being can **tame the tongue**. <br/>
 It is a **restless evil**, full of **deadly poison**.
+
+[James 3:7-8 (NIV) (p.2/3)](# "ref")
 
 ---
 [9](# "ref")
@@ -55,6 +59,8 @@ who have been made in God’s **likeness**.
 Out of the **same** mouth come **praise** and **cursing**. <br/>
 My brothers and sisters, this **should not be**.
 
+[James 3:9-10 (NIV) (p.3/3)](# "ref")
+
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
 ## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
@@ -64,11 +70,12 @@ My brothers and sisters, this **should not be**.
 
 ---
 <!-- .slide: <%= bg("unsplash-12dXKDujs40-horse_bridle.jpg") %> -->
-[3](# "ref")
 When we put **bits** <br/>
 into the mouths of **horses** <br/>
 to make them **obey** us, <br/>
 we can **turn** the whole animal.
+
+[James 3:3 (NIV)](# "ref")
 
 >>>
 + **steering**: direction, course
@@ -76,7 +83,6 @@ we can **turn** the whole animal.
 
 ---
 <!-- .slide: <%= bg("Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg") %> -->
-[4](# "ref")
 Or take **ships** as an example.
 
 Although they are so **large** <br/>
@@ -85,15 +91,18 @@ and are driven by strong **winds**,
 they are **steered** by a very small **rudder** <br/>
 wherever the pilot **wants** to go.
 
+[James 3:4 (NIV)](# "ref")
+
 >>>
 + steering
 + submission
 
 ---
 <!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> -->
-[5](# "ref")
 Consider what a great **forest** <br/>
 is set on **fire** by a small **spark**.
+
+[James 3:5 (NIV)](# "ref")
 
 >>>
 + *how great a fire* kindles
@@ -105,9 +114,10 @@ is set on **fire** by a small **spark**.
 
 ---
 <!-- .slide: <%= bg("nasa-modis_wonderglobe_lrg.jpg") %> -->
-[6](# "ref")
 The **tongue** also is a **fire**, <br/>
 a **world of evil** among the parts of the body.
+
+[James 3:6 (NIV)](# "ref")
 
 >>>
 + *world* (ὁ κόσμος): **totality**, complete ordering
@@ -122,7 +132,6 @@ a **world of evil** among the parts of the body.
 
 ---
 <!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
-## Mark 7:20 [(NIV)](# "ref")
 What comes **out** of a person is what defiles them.
 
 [21](# "ref")
@@ -133,15 +142,17 @@ sexual immorality, theft, murder, adultery, <br/>
 greed, malice, deceit, lewdness, <br/>
 envy, slander, arrogance and folly.
 
+[Mark 7:20-21 (NIV)](# "ref")
+
 >>>
 + not eating **food** that defiles
 + but **speech** from overflow of heart
 
 ---
 <!-- .slide: <%= bg("flickr-gromgull-3375802661-wine_spill.jpg") %> -->
-[6](# "ref")
 It **corrupts** the whole body,
 
+[James 3:6 (NIV)](# "ref")
 [&copy; 2009 Gunnar Grimnes, CC-BY 2.0](https://www.flickr.com/photos/gromgull/3375802661 "caption")
 
 >>>
@@ -154,9 +165,10 @@ It **corrupts** the whole body,
 
 ---
 <!-- .slide: <%= bg("unsplash-C2a4RGapd8s-light_paint_circle_fire.jpg") %> -->
-[6](# "ref")
 sets the whole **course** of one’s life on fire, <br/>
 and is itself set on fire by **hell**.
+
+[James 3:6 (NIV)](# "ref")
 
 >>>
 + *course of life* (τὸν τροχὸν τῆς γενέσεως):
@@ -169,12 +181,12 @@ and is itself set on fire by **hell**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I believe my **words**
-# can set the **course**
-# of my life on **fire**?
+# Do I believe my **words** <br> can affect the <br> **course** of my life?
 
 >>>
 + "sticks + stones"
++ Bible only mentions the **negative** impact
++ (law only condemns, does not bring life)
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
@@ -185,13 +197,14 @@ and is itself set on fire by **hell**.
 
 ---
 <!-- .slide: <%= bg("unsplash-M7fi58_dF5k-cow.jpg") %> -->
-[7](# "ref")
 All kinds of **animals**, birds, <br/>
 reptiles and sea creatures <br/>
 are being **tamed** and have been tamed by **mankind**,
 
 [8](# "ref")
 but **no** human being can tame the **tongue**. </br>
+
+[James 3:7-8 (NIV)](# "ref")
 
 >>>
 + *tame*: **subdue**, master, control
@@ -202,7 +215,6 @@ but **no** human being can tame the **tongue**. </br>
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-## David Platt, "Radical"
 God beckons **storm clouds** and they come.
 
 He tells the **wind** to blow and the **rain** to fall, <br/>
@@ -212,24 +224,25 @@ He speaks to the **mountains**, "You go there," <br/>
 and He says to the **seas**, "You stop here," <br/>
 and they do it.
 
+[David Platt, "Radical" (p.1/2)](# "ref")
+
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-[(David Platt)](# "ref")
 Everything in all **creation** <br/>
 responds in **obedience** to the Creator ...
 
 until we get to **you and me**.
 
----
-<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-[(David Platt)](# "ref")
 We have the **audacity** <br/>
 to look God in the face and say, "**No**".
 
+[David Platt, "Radical" (p.2/2)](# "ref")
+
 ---
 <!-- .slide: <%= bg("unsplash-bPldxRHkTzw-snake.jpg") %> -->
-[8](# "ref")
 It is a **restless evil**, full of **deadly poison**.
+
+[James 3:8 (NIV)](# "ref")
 
 >>>
 + *restless* (ἀκατάστατον): contrary to **standing** firm
@@ -242,7 +255,6 @@ It is a **restless evil**, full of **deadly poison**.
 
 ---
 <!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
-## Mark 2:5-7 [(NIV) (p.1/2)](# "ref")
 When Jesus saw their **faith**, he said to the **paralyzed** man, <br/>
 “Son, your **sins** are forgiven.”
 
@@ -254,9 +266,10 @@ Now some **teachers** of the law were sitting there, <br/>
 “**Why** does this fellow talk like that? <br/>
 He’s **blaspheming**! Who can forgive sins but **God** alone?”
 
+[Mark 2:5-7 (NIV) (p.1/2)](# "ref")
+
 ---
 <!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
-## Mark 2:8-9 [(NIV) (p.2/2)](# "ref")
 Immediately Jesus **knew** in his spirit that <br/>
 this was what they were **thinking** in their **hearts**,
 
@@ -267,6 +280,8 @@ Which is **easier**:
 to say to this paralyzed man, ‘Your sins are **forgiven**,’ <br/>
 or to say, ‘Get up, take your mat and **walk**’?
 
+[Mark 2:8-9 (NIV) (p.2/2)](# "ref")
+
 >>>
 + Not just **spoken** word!
   + e.g., **vow** of silence
@@ -274,9 +289,10 @@ or to say, ‘Get up, take your mat and **walk**’?
 
 ---
 <!-- .slide: <%= bg("human-ear-1462020301zmM.jpg") %> -->
-[1:19](# "ref")
 Everyone should be quick to **listen**, <br/>
 slow to **speak** and slow to become **angry**
+
+[James 1:19 (NIV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -292,8 +308,9 @@ slow to **speak** and slow to become **angry**
 
 ---
 <!-- .slide: <%= bg("unsplash-8ALMAJP0Ago-worship_crowd.jpg") %> -->
-[9](# "ref")
 With the tongue we **praise** our Lord and Father,
+
+[James 3:9 (NIV)](# "ref")
 
 >>>
 + *praise* (εὐλογοῦμεν): **bless**, good word
@@ -303,14 +320,17 @@ With the tongue we **praise** our Lord and Father,
 and with it we **curse** human beings, <br/>
 who have been made in God’s **likeness**.
 
+[James 3:9 (NIV)](# "ref")
+
 >>>
 + *curse* (καταρώμεθα): pronounce as **evil**
 
 ---
 <!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %> -->
-[10](# "ref")
 Out of the **same** mouth come **praise** and **cursing**. <br/>
 My brothers and sisters, this **should not be**.
+
+[James 3:10 (NIV)](# "ref")
 
 >>>
 + v11: fresh + salty/bitter water
@@ -321,9 +341,7 @@ My brothers and sisters, this **should not be**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Is my **pattern** of speech
-# **different** at home,
-# with friends, or at church?
+# Does my **pattern** of speech <br> **differ** at home, <br> with friends, or at church?
 
 >>>
 + integrity / integral
@@ -337,9 +355,10 @@ My brothers and sisters, this **should not be**.
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
-## James 3:2 [(NIV)](# "ref")
 Anyone who is never at **fault** in what they **say** </br>
 is **perfect**, able to keep their **whole body** in check.
+
+[James 3:2 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="empty" -->
