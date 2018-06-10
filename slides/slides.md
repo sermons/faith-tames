@@ -82,15 +82,18 @@ we can **turn** the whole animal.
 [James 3:3 (NIV)](# "ref")
 
 >>>
++ contrast **size**/strength of horse
+  + with apparent **insig** of bit
 + **steering**: direction, course
-+ **subjugation**: control, power, obey
++ **subjugation**: control, power
+  + "obey": persuade, **trust**, believe
 
 ---
 <!-- .slide: <%= bg("Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg") %> -->
 Or take **ships** as an example.
 
 Although they are so **large** <br/>
-and are driven by strong **winds**,
+and are driven by **strong** winds,
 
 they are **steered** by a very small **rudder** <br/>
 wherever the pilot **wants** to go.
@@ -98,8 +101,11 @@ wherever the pilot **wants** to go.
 [James 3:4 (NIV)](# "ref")
 
 >>>
-+ steering
-+ submission
++ strong winds: **hard**, unyielding, stubborn
+  + driven: propelled, force
++ wants: the **impulse** of the guide **desires**
++ **steering**: led/turned around
++ **submission**: will of the pilot
 
 ---
 <!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> -->
@@ -373,9 +379,12 @@ Anyone who is never at **fault** <br>
 in what they **say**
 
 is **perfect**, <br>
-able to keep their **whole body** in check.
+able to keep their whole body **in check**.
 
 [James 3:2 (NIV)](# "ref")
+
+>>>
++ lead by the **bridle** (as horse)
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="empty" -->
