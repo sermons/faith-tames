@@ -75,7 +75,8 @@ My brothers and sisters, this **should not be**.
 <!-- .slide: <%= bg("unsplash-12dXKDujs40-horse_bridle.jpg") %> -->
 When we put **bits** <br/>
 into the mouths of **horses** <br/>
-to make them **obey** us, <br/>
+to make them **obey** us,
+
 we can **turn** the whole animal.
 
 [James 3:3 (NIV)](# "ref")
@@ -354,7 +355,7 @@ My brothers and sisters, this **should not be**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Does my **pattern** of speech **differ** at home, at work, or at church?
+# Does my **pattern** of speech **differ** <br> at home, at work, or at church?
 
 >>>
 + integrity / integral
