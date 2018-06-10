@@ -99,7 +99,7 @@ we can **turn** the whole animal.
 + contrast **size**/strength of horse
   + with apparent **insig** of bit
 + **steering**: direction, course
-+ **subjugation**: control, power
++ **submission**: control, power
   + "obey": persuade, **trust**, believe
 
 ---
@@ -190,13 +190,21 @@ and is itself set on fire by **hell**.
   + trash/bodies **burned**
 
 ---
+A **gentle answer** turns away wrath, <br>
+but a **harsh word** stirs up anger.
+
+[Proverbs 15:1 (NIV)](# "ref")
+
+>>>
++ not that **other's** anger
+  + is my **fault**,
++ but **power** in one soft answer
+
+---
 <!-- .slide: data-background="white" -->
 # Do I believe my **words** <br> can affect the <br> **course** of my life?
 
 >>>
-+ "sticks + stones"
-+ Bible only mentions the **negative** impact
-+ (law only condemns, does not bring life)
 
 ---
 <!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> class="outline" -->
@@ -255,36 +263,6 @@ It is a **restless evil**, full of **deadly poison**.
   + **rust**: corrosion (Jam5:3)
 + *deadly*: **brings** / carries death
 
----
-<!-- .slide: <%= bg("human-ear-1462020301zmM.jpg") %> -->
-Everyone should be quick to **listen**, <br/>
-slow to **speak** and slow to become **angry**
-
-[James 1:19 (NIV)](# "ref")
-
----
-But the wisdom from **above** is first **pure**, <br>
-then **peaceable**, gentle, open to reason, ...
-
-[James 3:17 (ESV)](# "ref")
-
->>>
-+ solution: rely on **Christ**
-  + to give us His **wisdom**
-+ next time, ch3b
-
----
-<!-- .slide: data-background="white" -->
-# How have I **tried** and **failed** to **control** my **tongue**?
-
----
-<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> class="outline" -->
-## Faith that Tames the Tongue <br/> [James 3a](# "ref")
-1. Course [(v3-6)](# "ref")
-2. Control [(v7-8)](# "ref")
-3. **Cleanliness** [(v9-10)](# "ref")
-
->>>
 + So if tongue that **bad**,
   + just keep **silent**?
 
@@ -334,6 +312,25 @@ and by your words you will be **condemned**.
 + condemned: pronounce **guilty**, pass sentence
   + deemed **unrighteous**
 
+---
+<!-- .slide: <%= bg("human-ear-1462020301zmM.jpg") %> -->
+Everyone should be quick to **listen**, <br/>
+slow to **speak** and slow to become **angry**
+
+[James 1:19 (NIV)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# How have I **tried** and **failed** to **control** my **tongue**?
+
+---
+<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> class="outline" -->
+## Faith that Tames the Tongue <br/> [James 3a](# "ref")
+1. Course [(v3-6)](# "ref")
+2. Control [(v7-8)](# "ref")
+3. **Cleanliness** [(v9-10)](# "ref")
+
+>>>
 ---
 <!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
 With the tongue we **praise** <br>
@@ -391,6 +388,17 @@ envy, slander, arrogance and folly.
 >>>
 + not eating **food** that defiles
 + but **speech** from overflow of heart
+
+---
+But the wisdom from **above** is first **pure**, <br>
+then **peaceable**, gentle, open to reason, ...
+
+[James 3:17 (ESV)](# "ref")
+
+>>>
++ solution: rely on **Christ**
+  + to give us His **wisdom**
++ next time, ch3b
 
 ---
 <!-- .slide: data-background="white" -->
