@@ -17,7 +17,7 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
-## James: **Keep the Faith**
+## [James](#/outline "ref"): **Keep the Faith**
 + Stands the **Test** [(1:2-12)](# "ref")
 + Demands a **Change** of Heart [(1:19-25)](# "ref")
 + Loves **Impartially** [(2:5-9)](# "ref")
