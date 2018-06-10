@@ -192,6 +192,7 @@ and is itself set on fire by **hell**.
   + trash/bodies **burned**
 
 ---
+<!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
 A **gentle answer** turns away wrath, <br>
 but a **harsh word** stirs up anger.
 
@@ -395,6 +396,7 @@ envy, slander, arrogance and folly.
 + **integrity**: one whole person
 
 ---
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 Anyone who is never at **fault** <br>
 in what they **say**
 
@@ -407,6 +409,7 @@ able to keep their whole body **in check**.
 + lead by the **bridle** (as horse)
 
 ---
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
 But the wisdom from **above** is first **pure**, <br>
 then **peaceable**, gentle, open to reason, ...
 
