@@ -173,6 +173,7 @@ It **corrupts** the whole body,
   + like white **tablecloth** with wine spot
 + **scandals**, e.g., Harvey Weinstein, Kevin Spacey
   + don't think we are above it
++ e.g. pastor quietly semi-retired
 
 ---
 <!-- .slide: <%= bg("unsplash-C2a4RGapd8s-light_paint_circle_fire.jpg") %> -->
