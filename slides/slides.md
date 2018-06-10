@@ -40,7 +40,8 @@ and is itself set on fire by **hell**.
 [7](# "ref")
 All kinds of **animals**, birds, <br/>
 reptiles and sea creatures <br/>
-are being **tamed** and have been tamed by mankind,
+are being **tamed** <br>
+and have been tamed by mankind,
 
 [8](# "ref")
 but **no** human being can **tame the tongue**. <br/>
@@ -50,19 +51,21 @@ It is a **restless evil**, full of **deadly poison**.
 
 ---
 [9](# "ref")
-With the tongue we **praise** our Lord and Father,
+With the tongue <br>
+we **praise** our Lord and Father,
 
 and with it we **curse** human beings, <br/>
 who have been made in God’s **likeness**.
 
 [10](# "ref")
-Out of the **same** mouth come **praise** and **cursing**. <br/>
+Out of the **same** mouth <br>
+come **praise** and **cursing**. <br/>
 My brothers and sisters, this **should not be**.
 
 [James 3:9-10 (NIV) (p.3/3)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="outline" -->
 ## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
 1. **Course** [(v6)](# "ref")
 2. **Control** [(v7-8)](# "ref")
@@ -132,7 +135,8 @@ a **world of evil** among the parts of the body.
 
 ---
 <!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
-What comes **out** of a person is what defiles them.
+What comes **out** of a person <br>
+is what defiles them.
 
 [21](# "ref")
 For it is from **within**, out of a person’s **heart**, <br/>
@@ -189,7 +193,7 @@ and is itself set on fire by **hell**.
 + (law only condemns, does not bring life)
 
 ---
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="outline" -->
 ## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
 1. Course [(v6)](# "ref")
 2. **Control** [(v7-8)](# "ref")
@@ -199,7 +203,8 @@ and is itself set on fire by **hell**.
 <!-- .slide: <%= bg("unsplash-M7fi58_dF5k-cow.jpg") %> -->
 All kinds of **animals**, birds, <br/>
 reptiles and sea creatures <br/>
-are being **tamed** and have been tamed by **mankind**,
+are being **tamed** <br>
+and have been tamed by **mankind**,
 
 [8](# "ref")
 but **no** human being can tame the **tongue**. </br>
@@ -255,29 +260,36 @@ It is a **restless evil**, full of **deadly poison**.
 
 ---
 <!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
-When Jesus saw their **faith**, he said to the **paralyzed** man, <br/>
+When Jesus saw their **faith**, <br>
+he said to the **paralyzed** man,
+
 “Son, your **sins** are forgiven.”
 
-[6](# "ref")
-Now some **teachers** of the law were sitting there, <br/>
-**thinking** to themselves,
-
-[7](# "ref")
-“**Why** does this fellow talk like that? <br/>
-He’s **blaspheming**! Who can forgive sins but **God** alone?”
-
-[Mark 2:5-7 (NIV) (p.1/2)](# "ref")
+[Mark 2:5 (NIV) (p.1/3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
-Immediately Jesus **knew** in his spirit that <br/>
-this was what they were **thinking** in their **hearts**,
+Now some **teachers** of the law were <br>
+sitting there, **thinking** to themselves,
 
-and he said to them, “**Why** are you thinking these things? <br/>
+[7](# "ref")
+“**Why** does this fellow talk like that? <br/>
+He’s **blaspheming**! <br>
+Who can forgive sins but **God** alone?”
+
+[Mark 2:6-7 (NIV) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
+Immediately Jesus **knew** in his spirit <br/>
+that this was what they were **thinking** <br>
+in their **hearts**, and he said to them,
+
+“**Why** are you thinking these things? <br/>
 [9](# "ref")
-Which is **easier**:
+Which is **easier**: to say to this paralyzed man, <br>
+‘Your sins are **forgiven**,’
 
-to say to this paralyzed man, ‘Your sins are **forgiven**,’ <br/>
 or to say, ‘Get up, take your mat and **walk**’?
 
 [Mark 2:8-9 (NIV) (p.2/2)](# "ref")
@@ -296,11 +308,10 @@ slow to **speak** and slow to become **angry**
 
 ---
 <!-- .slide: data-background="white" -->
-# How have I **tried** <br/> and **failed**
-# to **control** my **tongue**?
+# How have I **tried** and **failed** to **control** my **tongue**?
 
 ---
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="outline" -->
 ## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
 1. Course [(v6)](# "ref")
 2. Control [(v7-8)](# "ref")
@@ -308,7 +319,7 @@ slow to **speak** and slow to become **angry**
 
 ---
 <!-- .slide: <%= bg("unsplash-8ALMAJP0Ago-worship_crowd.jpg") %> -->
-With the tongue we **praise** our Lord and Father,
+With the tongue we **praise** <br> our Lord and Father,
 
 [James 3:9 (NIV)](# "ref")
 
@@ -327,7 +338,9 @@ who have been made in God’s **likeness**.
 
 ---
 <!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %> -->
-Out of the **same** mouth come **praise** and **cursing**. <br/>
+Out of the **same** mouth <br>
+come **praise** and **cursing**.
+
 My brothers and sisters, this **should not be**.
 
 [James 3:10 (NIV)](# "ref")
@@ -341,13 +354,13 @@ My brothers and sisters, this **should not be**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Does my **pattern** of speech <br> **differ** at home, <br> with friends, or at church?
+# Does my **pattern** of speech **differ** at home, at work, or at church?
 
 >>>
 + integrity / integral
 
 ---
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="outline" -->
 ## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
 1. **Course** [(v6)](# "ref")
 2. **Control** [(v7-8)](# "ref")
@@ -355,8 +368,11 @@ My brothers and sisters, this **should not be**.
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
-Anyone who is never at **fault** in what they **say** </br>
-is **perfect**, able to keep their **whole body** in check.
+Anyone who is never at **fault** <br>
+in what they **say**
+
+is **perfect**, <br>
+able to keep their **whole body** in check.
 
 [James 3:2 (NIV)](# "ref")
 
