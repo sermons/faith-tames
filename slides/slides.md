@@ -76,7 +76,8 @@ My brothers and sisters, this **should not be**.
 >>>
 + My **speech** affects the **course** of my life
   + what kind of **person** I become
-  +
++ Not easily **controlled**
++ Pursue **holiness**, integrity
 
 ---
 <!-- .slide: <%= bg("unsplash-12dXKDujs40-horse_bridle.jpg") %> -->
@@ -220,6 +221,18 @@ but **no** human being can tame the **tongue**. </br>
   + **contrast** animals vs our speech
 
 ---
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
+He who is **slow** to anger <br>
+is better than the **mighty**,
+
+And he who rules his **spirit**, <br>
+than he who captures a **city**.
+
+[Proverbs 16:32 (NASB)](# "ref")
+[Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
+
+
+---
 <!-- .slide: <%= bg("unsplash-bPldxRHkTzw-snake.jpg") %> -->
 It is a **restless evil**, full of **deadly poison**.
 
@@ -232,8 +245,6 @@ It is a **restless evil**, full of **deadly poison**.
 + *poison*: as of snake **venom** (Rom3:13)
   + **rust**: corrosion (Jam5:3)
 + *deadly*: **brings** / carries death
-+ So if tongue that **bad**,
-  + just keep **silent**?
 
 ---
 <!-- .slide: <%= bg("human-ear-1462020301zmM.jpg") %> -->
@@ -253,16 +264,9 @@ slow to **speak** and slow to become **angry**
 2. Control [(v7-8)](# "ref")
 3. **Cleanliness** [(v9-10)](# "ref")
 
----
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
-He who is **slow** to anger <br>
-is better than the **mighty**,
-
-And he who rules his **spirit**, <br>
-than he who captures a **city**.
-
-[Proverbs 16:32 (NASB)](# "ref")
-[Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
+>>>
++ So if tongue that **bad**,
+  + just keep **silent**?
 
 ---
 <!-- .slide: <%= bg("unsplash-y02jEX_B0O0-fountain_pen.jpg") %> -->
