@@ -91,6 +91,7 @@ we can **turn** the whole animal.
 [Violeta Pencheva](https://unsplash.com/photos/12dXKDujs40 "caption")
 
 >>>
++ (1) horse, (2) ship, (3) forest
 + contrast **size**/strength of horse
   + with apparent **insig** of bit
 + **steering**: direction, course
@@ -126,11 +127,11 @@ is set on **fire** by a small **spark**.
 [Estreito da Calheta, Portugal. Michael Held](https://unsplash.com/photos/Of-NXuECJbE "caption")
 
 >>>
-+ *how great a fire* kindles
-  + *how great a wood* (forest)
++ "such a fire" kindles "such a forest"
+  + of this **size**, greatness
++ e.g., BC summer forest fires
 + **consumes** entire forest
-+ **uncontainable** / uncontrollable
-+ what took **years** to build
++ what took **years** to grow
   + consumed in **minutes**
 
 ---
