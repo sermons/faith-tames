@@ -1,7 +1,8 @@
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> id="title" -->
 # Faith that <br/> Tames the Tongue
 ## James 3:6-10
-[Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
+
+[Kristina Flour](https://unsplash.com/photos/BcjdbyKWquw "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -68,11 +69,16 @@ My brothers and sisters, this **should not be**.
 [James 3:9-10 (NIV) (p.3/3)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> id="outline" class="outline" -->
 ## Faith that Tames the Tongue <br/> [James 3a](# "ref")
 1. **Course** [(v3-6)](# "ref")
 2. **Control** [(v7-8)](# "ref")
 3. **Cleanliness** [(v9-10)](# "ref")
+
+>>>
++ My **speech** affects the **course** of my life
+  + what kind of **person** I become
+  +
 
 ---
 <!-- .slide: <%= bg("unsplash-12dXKDujs40-horse_bridle.jpg") %> -->
@@ -129,12 +135,12 @@ is set on **fire** by a small **spark**.
   + consumed in **minutes**
 
 ---
-<!-- .slide: <%= bg("nasa-modis_wonderglobe_lrg.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-Q1p7bh3SHj8-NASA_Gulf.jpg") %> -->
 The **tongue** also is a **fire**, <br/>
 a **world of evil** among the parts of the body.
 
 [James 3:6 (NIV)](# "ref")
-[Reto Stöckli, et al, NASA GSFC](https://earthobservatory.nasa.gov/IOTD/view.php?id=885 "caption")
+[Gulf of Mexico. NASA](https://unsplash.com/photos/Q1p7bh3SHj8 "caption")
 
 >>>
 + *world* (ὁ κόσμος): **totality**, complete ordering
@@ -146,26 +152,6 @@ a **world of evil** among the parts of the body.
 + represents **speech**: me'to-ny-my
   + **body** holy, created by God
   + how we **use** it: world of evil
-
----
-<!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
-What comes **out** of a person <br>
-is what defiles them.
-
-[21](# "ref")
-For it is from **within**, out of a person’s **heart**, <br/>
-that **evil** thoughts come —
-
-sexual immorality, theft, murder, adultery, <br/>
-greed, malice, deceit, lewdness, <br/>
-envy, slander, arrogance and folly.
-
-[Mark 7:20-21 (NIV)](# "ref")
-[Kevin Sequeira](https://stocksnap.io/photo/CB8PFQR6E9 "caption")
-
->>>
-+ not eating **food** that defiles
-+ but **speech** from overflow of heart
 
 ---
 <!-- .slide: <%= bg("flickr-gromgull-3375802661-wine_spill.jpg") %> -->
@@ -209,7 +195,7 @@ and is itself set on fire by **hell**.
 + (law only condemns, does not bring life)
 
 ---
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> class="outline" -->
 ## Faith that Tames the Tongue <br/> [James 3a](# "ref")
 1. Course [(v6)](# "ref")
 2. **Control** [(v7-8)](# "ref")
@@ -236,32 +222,6 @@ but **no** human being can tame the **tongue**. </br>
   + **contrast** animals vs our speech
 
 ---
-<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-God beckons **storm clouds** and they come.
-
-He tells the **wind** to blow and the **rain** to fall, <br/>
-and they **obey** immediately.
-
-He speaks to the **mountains**, "You go there," <br/>
-and He says to the **seas**, "You stop here," <br/>
-and they do it.
-
-[David Platt, "Radical" (p.1/2)](# "ref")
-[Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
-
----
-<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-Everything in all **creation** <br/>
-responds in **obedience** to the Creator ...
-
-until we get to **you and me**.
-
-We have the **audacity** <br/>
-to look God in the face and say, "**No**".
-
-[David Platt, "Radical" (p.2/2)](# "ref")
-
----
 <!-- .slide: <%= bg("unsplash-bPldxRHkTzw-snake.jpg") %> -->
 It is a **restless evil**, full of **deadly poison**.
 
@@ -278,48 +238,6 @@ It is a **restless evil**, full of **deadly poison**.
   + just keep **silent**?
 
 ---
-<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
-When Jesus saw their **faith**, <br>
-he said to the **paralyzed** man,
-
-“Son, your **sins** are forgiven.”
-
-[Mark 2:5 (NIV) (p.1/3)](# "ref")
-[Kristina Flour](https://unsplash.com/photos/BcjdbyKWquw "caption")
-
----
-<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
-Now some **teachers** of the law were <br>
-sitting there, **thinking** to themselves,
-
-[7](# "ref")
-“**Why** does this fellow talk like that? <br/>
-He’s **blaspheming**! <br>
-Who can forgive sins but **God** alone?”
-
-[Mark 2:6-7 (NIV) (p.2/3)](# "ref")
-
----
-<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
-Immediately Jesus **knew** in his spirit <br/>
-that this was what they were **thinking** <br>
-in their **hearts**, and he said to them,
-
-“**Why** are you thinking these things? <br/>
-[9](# "ref")
-Which is **easier**: to say to this paralyzed man, <br>
-‘Your sins are **forgiven**,’
-
-or to say, ‘Get up, take your mat and **walk**’?
-
-[Mark 2:8-9 (NIV) (p.3/3)](# "ref")
-
->>>
-+ Not just **spoken** word!
-  + e.g., **vow** of silence
-+ Words in our **thoughts**, too!
-
----
 <!-- .slide: <%= bg("human-ear-1462020301zmM.jpg") %> -->
 Everyone should be quick to **listen**, <br/>
 slow to **speak** and slow to become **angry**
@@ -331,18 +249,57 @@ slow to **speak** and slow to become **angry**
 # How have I **tried** and **failed** to **control** my **tongue**?
 
 ---
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> class="outline" -->
 ## Faith that Tames the Tongue <br/> [James 3a](# "ref")
 1. Course [(v3-6)](# "ref")
 2. Control [(v7-8)](# "ref")
 3. **Cleanliness** [(v9-10)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-8ALMAJP0Ago-worship_crowd.jpg") %> -->
-With the tongue we **praise** <br> our Lord and Father,
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
+He who is **slow** to anger <br>
+is better than the **mighty**,
+
+And he who rules his **spirit**, <br>
+than he who captures a **city**.
+
+[Proverbs 16:32 (NASB)](# "ref")
+[Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-y02jEX_B0O0-fountain_pen.jpg") %> -->
+For out of the abundance of the **heart** <br>
+the **mouth** speaks.
+
+[35](# "ref")
+The good **person** out of his good **treasure** <br>
+brings forth **good**, <br>
+and the evil **person** out of his evil **treasure** <br>
+brings forth **evil**.
+
+[Matthew 12:34-35 (ESV) (p.1/2)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/y02jEX_B0O0 "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-y02jEX_B0O0-fountain_pen.jpg") %> -->
+[36](# "ref")
+I tell you, on the day of **judgment** <br>
+people will give **account** <br>
+for every **careless word** they speak,
+
+[37](# "ref")
+for by your words you will be **justified**, <br>
+and by your words you will be **condemned**.
+
+[Matthew 12:36-37 (ESV) (p.2/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
+With the tongue we **praise** <br>
+our Lord and Father,
 
 [James 3:9 (NIV)](# "ref")
-[Roanoke, US.  Jazmin Quaynor](https://unsplash.com/photos/8ALMAJP0Ago "caption")
+[Los Angeles. Edwin Andrade](https://unsplash.com/photos/6liebVeAfrY "caption")
 
 >>>
 + *praise* (εὐλογοῦμεν): **bless**, good word
@@ -375,6 +332,26 @@ My brothers and sisters, this **should not be**.
 + can't argue in the mall
 
 ---
+<!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
+What comes **out** of a person <br>
+is what defiles them.
+
+[21](# "ref")
+For it is from **within**, out of a person’s **heart**, <br/>
+that **evil** thoughts come —
+
+sexual immorality, theft, murder, adultery, <br/>
+greed, malice, deceit, lewdness, <br/>
+envy, slander, arrogance and folly.
+
+[Mark 7:20-21 (NIV)](# "ref")
+[Kevin Sequeira](https://stocksnap.io/photo/CB8PFQR6E9 "caption")
+
+>>>
++ not eating **food** that defiles
++ but **speech** from overflow of heart
+
+---
 <!-- .slide: data-background="white" -->
 # Does my **pattern** of speech **differ** <br> at home, at work, or at church?
 
@@ -382,14 +359,7 @@ My brothers and sisters, this **should not be**.
 + integrity / integral
 
 ---
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="outline" -->
-## Faith that Tames the Tongue <br/> [James 3a](# "ref")
-1. **Course** [(v3-6)](# "ref")
-2. **Control** [(v7-8)](# "ref")
-3. **Cleanliness** [(v9-10)](# "ref")
-
----
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> class="outline" -->
 Anyone who is never at **fault** <br>
 in what they **say**
 
@@ -402,5 +372,4 @@ able to keep their whole body **in check**.
 + lead by the **bridle** (as horse)
 
 ---
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="empty" -->
-
+<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> class="empty" -->
