@@ -1,6 +1,7 @@
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
 # Faith that <br/> Tames the Tongue
 ## James 3:6-10
+[Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -21,6 +22,8 @@
 + Loves **Impartially** [(2:5-9)](# "ref")
 + **Acts** [(2:15-24)](# "ref")
 + Tames the **Tongue** [(3:6-10)](# "ref")
+
+[Plattenkogel, Austria. Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
 
 >>>
 2:16 If one of you says to them, “Go in peace; keep warm and well fed,” but does nothing about their physical needs, what good is it?
@@ -80,6 +83,7 @@ to make them **obey** us,
 we can **turn** the whole animal.
 
 [James 3:3 (NIV)](# "ref")
+[Violeta Pencheva](https://unsplash.com/photos/12dXKDujs40 "caption")
 
 >>>
 + contrast **size**/strength of horse
@@ -99,6 +103,7 @@ they are **steered** by a very small **rudder** <br/>
 wherever the pilot **wants** to go.
 
 [James 3:4 (NIV)](# "ref")
+[Ludolf Bakhuizen, ~1690](https://commons.wikimedia.org/wiki/File:Ludolf_Bakhuizen_-_Ships_Running_Aground_in_a_Storm_-_WGA01131.jpg "caption")
 
 >>>
 + strong winds: **hard**, unyielding, stubborn
@@ -113,6 +118,7 @@ Consider what a great **forest** <br/>
 is set on **fire** by a small **spark**.
 
 [James 3:5 (NIV)](# "ref")
+[Estreito da Calheta, Portugal. Michael Held](https://unsplash.com/photos/Of-NXuECJbE "caption")
 
 >>>
 + *how great a fire* kindles
@@ -128,6 +134,7 @@ The **tongue** also is a **fire**, <br/>
 a **world of evil** among the parts of the body.
 
 [James 3:6 (NIV)](# "ref")
+[Reto Stöckli, et al, NASA GSFC](https://earthobservatory.nasa.gov/IOTD/view.php?id=885 "caption")
 
 >>>
 + *world* (ὁ κόσμος): **totality**, complete ordering
@@ -154,6 +161,7 @@ greed, malice, deceit, lewdness, <br/>
 envy, slander, arrogance and folly.
 
 [Mark 7:20-21 (NIV)](# "ref")
+[Kevin Sequeira](https://stocksnap.io/photo/CB8PFQR6E9 "caption")
 
 >>>
 + not eating **food** that defiles
@@ -180,6 +188,7 @@ sets the whole **course** of one’s life on fire, <br/>
 and is itself set on fire by **hell**.
 
 [James 3:6 (NIV)](# "ref")
+[Peter John Maridable](https://unsplash.com/photos/C2a4RGapd8s "caption")
 
 >>>
 + *course of life* (τὸν τροχὸν τῆς γενέσεως):
@@ -217,6 +226,7 @@ and have been tamed by **mankind**,
 but **no** human being can tame the **tongue**. </br>
 
 [James 3:7-8 (NIV)](# "ref")
+[Flängan, Norberg.  Adam Morse](https://unsplash.com/photos/M7fi58_dF5k "caption")
 
 >>>
 + *tame*: **subdue**, master, control
@@ -237,6 +247,7 @@ and He says to the **seas**, "You stop here," <br/>
 and they do it.
 
 [David Platt, "Radical" (p.1/2)](# "ref")
+[Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
@@ -255,6 +266,7 @@ to look God in the face and say, "**No**".
 It is a **restless evil**, full of **deadly poison**.
 
 [James 3:8 (NIV)](# "ref")
+[Tainan City, Taiwan.  Boris Smokrovic](https://unsplash.com/photos/bPldxRHkTzw "caption")
 
 >>>
 + *restless* (ἀκατάστατον): contrary to **standing** firm
@@ -273,6 +285,7 @@ he said to the **paralyzed** man,
 “Son, your **sins** are forgiven.”
 
 [Mark 2:5 (NIV) (p.1/3)](# "ref")
+[Kristina Flour](https://unsplash.com/photos/BcjdbyKWquw "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
@@ -284,7 +297,7 @@ sitting there, **thinking** to themselves,
 He’s **blaspheming**! <br>
 Who can forgive sins but **God** alone?”
 
-[Mark 2:6-7 (NIV) (p.1/2)](# "ref")
+[Mark 2:6-7 (NIV) (p.2/3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
@@ -299,7 +312,7 @@ Which is **easier**: to say to this paralyzed man, <br>
 
 or to say, ‘Get up, take your mat and **walk**’?
 
-[Mark 2:8-9 (NIV) (p.2/2)](# "ref")
+[Mark 2:8-9 (NIV) (p.3/3)](# "ref")
 
 >>>
 + Not just **spoken** word!
@@ -329,6 +342,7 @@ slow to **speak** and slow to become **angry**
 With the tongue we **praise** <br> our Lord and Father,
 
 [James 3:9 (NIV)](# "ref")
+[Roanoke, US.  Jazmin Quaynor](https://unsplash.com/photos/8ALMAJP0Ago "caption")
 
 >>>
 + *praise* (εὐλογοῦμεν): **bless**, good word
@@ -351,6 +365,7 @@ come **praise** and **cursing**.
 My brothers and sisters, this **should not be**.
 
 [James 3:10 (NIV)](# "ref")
+[Litchfield National Park, Australia.  Andy Fitzsimon](https://unsplash.com/photos/w8g2vws1VBQ "caption")
 
 >>>
 + v11: fresh + salty/bitter water
