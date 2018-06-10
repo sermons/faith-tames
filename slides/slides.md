@@ -69,8 +69,8 @@ My brothers and sisters, this **should not be**.
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="outline" -->
-## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
-1. **Course** [(v6)](# "ref")
+## Faith that Tames the Tongue <br/> [James 3a](# "ref")
+1. **Course** [(v3-6)](# "ref")
 2. **Control** [(v7-8)](# "ref")
 3. **Cleanliness** [(v9-10)](# "ref")
 
@@ -210,7 +210,7 @@ and is itself set on fire by **hell**.
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="outline" -->
-## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
+## Faith that Tames the Tongue <br/> [James 3a](# "ref")
 1. Course [(v6)](# "ref")
 2. **Control** [(v7-8)](# "ref")
 3. Cleanliness [(v9-10)](# "ref")
@@ -332,8 +332,8 @@ slow to **speak** and slow to become **angry**
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="outline" -->
-## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
-1. Course [(v6)](# "ref")
+## Faith that Tames the Tongue <br/> [James 3a](# "ref")
+1. Course [(v3-6)](# "ref")
 2. Control [(v7-8)](# "ref")
 3. **Cleanliness** [(v9-10)](# "ref")
 
@@ -383,8 +383,8 @@ My brothers and sisters, this **should not be**.
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> class="outline" -->
-## Faith that Tames the Tongue <br/> [James 3(a)](# "ref")
-1. **Course** [(v6)](# "ref")
+## Faith that Tames the Tongue <br/> [James 3a](# "ref")
+1. **Course** [(v3-6)](# "ref")
 2. **Control** [(v7-8)](# "ref")
 3. **Cleanliness** [(v9-10)](# "ref")
 
