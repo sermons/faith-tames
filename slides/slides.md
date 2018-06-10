@@ -171,6 +171,8 @@ It **corrupts** the whole body,
   + **one** unholy utterance, and
 + **focus** on the stain
   + like white **tablecloth** with wine spot
++ **scandals**, e.g., Harvey Weinstein, Kevin Spacey
+  + don't think we are above it
 
 ---
 <!-- .slide: <%= bg("unsplash-C2a4RGapd8s-light_paint_circle_fire.jpg") %> -->
@@ -388,6 +390,21 @@ envy, slander, arrogance and folly.
 >>>
 + not eating **food** that defiles
 + but **speech** from overflow of heart
++ have I stored up evil **thoughts**?
+  + lust, covet, hatred, pride
++ **integrity**: one whole person
+
+---
+Anyone who is never at **fault** <br>
+in what they **say**
+
+is **perfect**, <br>
+able to keep their whole body **in check**.
+
+[James 3:2 (NIV)](# "ref")
+
+>>>
++ lead by the **bridle** (as horse)
 
 ---
 But the wisdom from **above** is first **pure**, <br>
@@ -416,9 +433,6 @@ is **perfect**, <br>
 able to keep their whole body **in check**.
 
 [James 3:2 (NIV)](# "ref")
-
->>>
-+ lead by the **bridle** (as horse)
 
 ---
 <!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> class="empty" -->
