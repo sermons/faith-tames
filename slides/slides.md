@@ -74,10 +74,14 @@ My brothers and sisters, this **should not be**.
 3. **Cleanliness** [(v9-10)](# "ref")
 
 >>>
-+ My **speech** affects the **course** of my life
-  + what kind of **person** I become
-+ Not easily **controlled**
-+ Pursue **holiness**, integrity
++ (1) critical **importance** of watching our speech
+  + affects **course** of life
+  + kind of **person** I become
++ (2) overwhelming **challenge**
+  + Not easily **controlled**
++ (3) honest **assessment** of self
+  + words reflect **heart**
+  + Pursue **holiness**, integrity
 
 ---
 <!-- .slide: <%= bg("unsplash-12dXKDujs40-horse_bridle.jpg") %> -->
@@ -232,6 +236,10 @@ than he who captures a **city**.
 [Proverbs 16:32 (NASB)](# "ref")
 [Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
 
+>>>
++ often **unaware** of own speech
++ e.g., wife gently **reminds**
+  + when get **sarcastic** with kid
 
 ---
 <!-- .slide: <%= bg("unsplash-bPldxRHkTzw-snake.jpg") %> -->
@@ -253,6 +261,17 @@ Everyone should be quick to **listen**, <br/>
 slow to **speak** and slow to become **angry**
 
 [James 1:19 (NIV)](# "ref")
+
+---
+But the wisdom from **above** is first **pure**, <br>
+then **peaceable**, gentle, open to reason, ...
+
+[James 3:17 (ESV)](# "ref")
+
+>>>
++ solution: rely on **Christ**
+  + to give us His **wisdom**
++ next time, ch3b
 
 ---
 <!-- .slide: data-background="white" -->
