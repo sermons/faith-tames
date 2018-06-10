@@ -9,11 +9,8 @@
 # Do my **words** <br> matter to God?
 
 >>>
-+ I'm a **Christian**
-  + church, pray, read Bible
-+ But my **friends** talk a certain way
-  + I do the **same** when I'm with them
-+ **Family** (esp if non-Chr)
++ aren't **actions** more important?
+  + give to charity, yield in traffic, attend church
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
@@ -280,6 +277,17 @@ brings forth **evil**.
 [Matthew 12:34-35 (ESV) (p.1/2)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/y02jEX_B0O0 "caption")
 
+>>>
++ insinuated Jesus used **demon** to cast out demon
++ can't just **bottle** up inside
+  + outwardly **polite**
+  + inwardly **resentful**
++ heart **stores** up (treasures)
+  + then **overflows** into speech
+  + brings forth: **throws** out
++ e.g., capable **wife**, resentful **hubby**:
+  + snipes at her in **other** areas: driving, looks, etc.
+
 ---
 <!-- .slide: <%= bg("unsplash-y02jEX_B0O0-fountain_pen.jpg") %> -->
 [36](# "ref")
@@ -292,6 +300,14 @@ for by your words you will be **justified**, <br>
 and by your words you will be **condemned**.
 
 [Matthew 12:36-37 (ESV) (p.2/2)](# "ref")
+
+>>>
++ careless: **useless**, without work
+  + doesn't **achieve** anything
++ justified: deemed **righteous**
+  + Abram **believed** God (Gen 15:6)
++ condemned: pronounce **guilty**, pass sentence
+  + deemed **unrighteous**
 
 ---
 <!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
