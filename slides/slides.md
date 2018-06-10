@@ -4,8 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Does what I **say**
-# **matter** to God?
+# Do my **words** <br> matter to God?
 
 >>>
 + I'm a **Christian**
