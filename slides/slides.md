@@ -11,6 +11,7 @@
 >>>
 + aren't **actions** more important?
   + give to charity, yield in traffic, attend church
++ my **intentions** are noble?
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
@@ -369,7 +370,7 @@ envy, slander, arrogance and folly.
 
 ---
 <!-- .slide: data-background="white" -->
-# Does my **pattern** of speech **differ** <br> at home, at work, or at church?
+# Does my **pattern** <br> of speech **differ** <br> at home, at work, and at church?
 
 >>>
 + integrity / integral
