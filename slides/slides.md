@@ -1,442 +1,389 @@
-<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> id="title" -->
-# Faith that <br/> Tames the Tongue
-## James 3:6-10
-
-[Kristina Flour](https://unsplash.com/photos/BcjdbyKWquw "caption")
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> id="title" -->
+# One Body in Christ
+## Ephesians 2:11-22
 
 ---
 <!-- .slide: data-background="white" -->
-# Do my **words** <br> matter to God?
+# Where is my **home**?
+# How do I find **peace**?
+
+[###](#/outline "secret")
 
 >>>
-+ aren't **actions** more important?
-  + give to charity, yield in traffic, attend church
-+ my **intentions** are noble?
++ Eph: past **grace** + future **hope** &rArr; present **walk**
+  + ch1-3: to **know** God
+  + ch4-6: to **obey** God
++ ch2a: reconciled to **God**
++ ch2b: reconciled to **each other**
+
+---
+[11](# "ref")
+Therefore, remember that formerly <br>
+you who are Gentiles by birth 
+
+and called “uncircumcised” by those <br>
+who call themselves “the circumcision” <br>
+(which is done in the body by human hands)
+
+[Ephesians 2:11 (NIV) (p.1/8)](# "ref")
+
+---
+[12](# "ref")
+remember that at that time <br>
+you were separate from Christ, 
+
+excluded from citizenship in Israel <br>
+and foreigners to the covenants of the promise,
+
+without hope and without God in the world. 
+
+[Ephesians 2:12 (NIV) (p.2/8)](# "ref")
+
+---
+[13](# "ref")
+But now in Christ Jesus <br>
+you who once were far away <br>
+have been brought near by the blood of Christ.
+
+[Ephesians 2:13 (NIV) (p.3/8)](# "ref")
+
+---
+[14](# "ref")
+For he himself is our peace, <br>
+who has made the two groups one 
+
+and has destroyed the barrier, <br>
+the dividing wall of hostility, 
+
+[15](# "ref")
+by setting aside in his flesh <br>
+the law with its commands and regulations.
+
+[Ephesians 2:14-15 (NIV) (p.4/8)](# "ref")
+
+---
+His purpose was to create in himself <br>
+one new humanity out of the two, <br>
+thus making peace,
+
+[16](# "ref")
+and in one body to reconcile both of them <br>
+to God through the cross, <br>
+by which he put to death their hostility.
+
+[Ephesians 2:15-16 (NIV) (p.5/8)](# "ref")
+
+---
+[17](# "ref")
+He came and preached <br>
+peace to you who were far away <br>
+and peace to those who were near. 
+
+[18](# "ref")
+For through him we both have <br>
+access to the Father by one Spirit.
+
+[Ephesians 2:17-18 (NIV) (p.6/8)](# "ref")
+
+---
+[19](# "ref")
+Consequently, you are no longer <br>
+foreigners and strangers, 
+
+but fellow citizens with God’s people <br>
+and also members of his household, 
+
+[20](# "ref")
+built on the foundation<br>
+of the apostles and prophets, <br>
+with Christ Jesus himself <br>
+as the chief cornerstone.
+
+[Ephesians 2:19-20 (NIV) (p.7/8)](# "ref")
+
+---
+[21](# "ref")
+In him the whole building is joined together <br>
+and rises to become a holy temple in the Lord. 
+
+[22](# "ref")
+And in him you too are being built together <br>
+to become a dwelling <br>
+in which God lives by his Spirit.
+
+[Ephesians 2:21-22 (NIV) (p.8/8)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" id="outline" -->
+## One Body in Christ [(Eph2)](# "ref")
++ *Without* Christ: <br> **Former Enemies** [(v11-13)](# "ref")
++ What Christ *did*: <br> **Made at Peace** [(v14-18)](# "ref")
++ *Life* in Christ: <br> **Growing Together** [(v19-22)](# "ref")
+
+>>>
++ e.g., 3-part **baptism** testimony
+
+---
+<!-- .slide: <%= bg("unsplash-rdwkamJlpiU-mist-mtns.jpg") %> -->
+**Remember** that at that time <br/>
+you were **separate** from Christ
+
+[Ephesians 2:12 (NIV)](# "ref")
+
+>>>
++ **remember** our original state
++ JJ "perfect" angel:
+  + but **sinful** nature
+
+---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
+**foreigners** to the **covenants** of the promise
+
+[Ephesians 2:12 (NIV)](# "ref")
+
+>>>
++ w/o **community**: Gentile
+	+ the "other": 中 vs 外
+	+ citizenship, belong, ID
++ how feel to be the **other**?
++ w/o **covenant**: stranger
+	+ relationship, **promise**
++ e.g., **engaged** vs left over
+
+---
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
+without **hope** and without **God** in the world
+
+[Ephesians 2:12 (NIV)](# "ref")
+
+>>>
++ w/o **Christ**: hopeless, godless
+	+ non-Chr loved ones:
+      frustrated by diff **values**?
+    + We were same
+
+---
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
+Among them **we too** all formerly lived <br>
+in the **lusts** of our flesh, 
+
+indulging the desires <br>
+of the **flesh** and of the **mind**, 
+
+and were by nature **children of wrath**, <br>
+even as the rest.
+
+[Ephesians 2:3 (NASB)](# "ref")
+
+>>>
++ the **rest** of the world thinks this **normal**
+
+---
+<!-- .slide: data-background="white" -->
+# What has Christ **saved** me from?
+
+>>>
++ what's so amazing about His **grace**?
++ what's so **wretched** about my sin? 
++ how unattainable is God's **holiness**?
++ lust, envy, hatred, selfishness
+  + want to **decide** what is best
++ put us at **odds** w/God + his people
+
+---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
+## One Body in Christ [(Eph2)](# "ref")
++ Without Christ: <br> Former Enemies [(v11-13)](# "ref")
++ **What Christ did: <br> Made at Peace** [(v14-18)](# "ref")
++ Life in Christ: <br> Growing Together [(v19-22)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
+He **himself** is our **peace**
+
+[Ephesians 2:14 (NIV)](# "ref")
+
+>>>
++ Not that Jesus **gives** us peace
+  + He himself **is** our peace
++ not just saying "peace, peace"
+	+ gr8 boys: "peace, be still"
+	+ Jer 8:8-11 heal superficial
++ God **does** what we **can't**:
+  + **creation** & **destruction**
+
+---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
+has made the two groups **one**
+
+[Ephesians 2:14 (NIV)](# "ref")
+
+>>>
++ Christ **did** this:
++ **made** both one
++ **broke** mid-wall of barrier, enmity
+  + in his flesh (c.f. curtain)
+
+---
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
+For all of you who were **baptized** into Christ <br/>
+have **clothed** yourselves with Christ.
+
+[Galatians 3:27 (NIV) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
+There is neither **Jew** nor **Greek**, <br/>
+there is neither **slave** nor **free** man, <br/>
+there is neither **male** nor **female**;
+
+for you are all **one** in Christ Jesus.
+
+[Galatians 3:28 (NIV) (p.2/2)](# "ref")
+
+>>>
++ **nullified** law
+  + of commands in dogma
+  + emptied it of **power**
+  + (Ro3:31 faith null law?)
++ (Gal3:16-17 promises to seed)
+	+ (:22-25 Law &rarr; Christ)
+	+ (:26-29 no Jew/Greek: heirs)
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
-## [James](#/outline "ref"): **Keep the Faith**
-+ Stands the **Test** [(1:2-12)](# "ref")
-+ Demands a **Change** of Heart [(1:19-25)](# "ref")
-+ Loves **Impartially** [(2:5-9)](# "ref")
-+ **Acts** [(2:15-24)](# "ref")
-+ Tames the **Tongue** [(3:6-10)](# "ref")
+in **one body** to reconcile **both** of them <br/>
+to **God** through the cross
 
-[Plattenkogel, Austria. Lukas Budimaier](https://unsplash.com/photos/6cY-FvMlmkQ "caption")
+[Ephesians 2:16 (NIV)](# "ref")
 
 >>>
-2:16 If one of you says to them, “Go in peace; keep warm and well fed,” but does nothing about their physical needs, what good is it?
++ **so that** He may:
++ **create** one new person
+  + (c.f. marriage)
+  + **making** peace
++ **reconcile** both to God
+  + **killing** the enmity
 
 ---
-[6](# "ref")
-The **tongue** also is a **fire**, <br/>
-a **world of evil** among the parts of the body.
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+I live in a **high** and **holy** place, <br/>
+but also with the **contrite** <br>
+and **lowly** in spirit,
 
-It **corrupts** the whole body, <br/>
-sets the whole **course** of one’s life on fire, <br/>
-and is itself set on fire by **hell**.
+to **revive the spirit** of the lowly <br/>
+and to **revive the heart** of the contrite.
 
-[James 3:6 (NIV) (p.1/3)](# "ref")
-
----
-[7](# "ref")
-All kinds of **animals**, birds, <br/>
-reptiles and sea creatures <br/>
-are being **tamed** <br>
-and have been tamed by mankind,
-
-[8](# "ref")
-but **no** human being can **tame the tongue**. <br/>
-It is a **restless evil**, full of **deadly poison**.
-
-[James 3:7-8 (NIV) (p.2/3)](# "ref")
+[Isaiah 57:15 (NIV) (p.1/3)](# "ref")
 
 ---
-[9](# "ref")
-With the tongue <br>
-we **praise** our Lord and Father,
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+**Peace, peace**, to those far and near,” <br/>
+says the Lord. 
 
-and with it we **curse** human beings, <br/>
-who have been made in God’s **likeness**.
+“And I will **heal** them.”
 
-[10](# "ref")
-Out of the **same** mouth <br>
-come **praise** and **cursing**. <br/>
-My brothers and sisters, this **should not be**.
-
-[James 3:9-10 (NIV) (p.3/3)](# "ref")
-
----
-<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> id="outline" class="outline" -->
-## Faith that Tames the Tongue <br/> [James 3a](# "ref")
-1. **Course** [(v3-6)](# "ref")
-2. **Control** [(v7-8)](# "ref")
-3. **Cleanliness** [(v9-10)](# "ref")
+[Isaiah 57:19 (NIV) (p.2/3)](# "ref")
 
 >>>
-+ (1) critical **importance** of watching our speech
-  + affects **course** of life
-  + kind of **person** I become
-+ (2) overwhelming **challenge**
-  + Not easily **controlled**
-+ (3) honest **assessment** of self
-  + words reflect **heart**
-  + Pursue **holiness**, integrity
++ both **far** and **near**
++ **access**/approach in one spirit
++ but peace **not** for everyone!
 
 ---
-<!-- .slide: <%= bg("unsplash-12dXKDujs40-horse_bridle.jpg") %> -->
-When we put **bits** <br/>
-into the mouths of **horses** <br/>
-to make them **obey** us,
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
+"There is **no peace**,” says my God, <br/>
+“for the **wicked**.”
 
-we can **turn** the whole animal.
-
-[James 3:3 (NIV)](# "ref")
-[Violeta Pencheva](https://unsplash.com/photos/12dXKDujs40 "caption")
+[Isaiah 57:21 (NIV) (p.3/3)](# "ref")
 
 >>>
-+ (1) horse, (2) ship, (3) forest
-+ contrast **size**/strength of horse
-  + with apparent **insig** of bit
-+ **steering**: direction, course
-+ **submission**: control, power
-  + "obey": persuade, **trust**, believe
-
----
-<!-- .slide: <%= bg("Bakhuizen-Ships_Running_Aground_in_a_Storm-WGA01131.jpg") %> -->
-Or take **ships** as an example.
-
-Although they are so **large** <br/>
-and are driven by **strong** winds,
-
-they are **steered** by a very small **rudder** <br/>
-wherever the pilot **wants** to go.
-
-[James 3:4 (NIV)](# "ref")
-[Ludolf Bakhuizen, ~1690](https://commons.wikimedia.org/wiki/File:Ludolf_Bakhuizen_-_Ships_Running_Aground_in_a_Storm_-_WGA01131.jpg "caption")
-
->>>
-+ strong winds: **hard**, unyielding, stubborn
-  + driven: propelled, force
-+ wants: the **impulse** of the guide **desires**
-+ **steering**: led/turned around
-+ **submission**: will of the pilot
-
----
-<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> -->
-Consider what a great **forest** <br/>
-is set on **fire** by a small **spark**.
-
-[James 3:5 (NIV)](# "ref")
-[Estreito da Calheta, Portugal. Michael Held](https://unsplash.com/photos/Of-NXuECJbE "caption")
-
->>>
-+ "such a fire" kindles "such a forest"
-  + of this **size**, greatness
-+ e.g., BC summer forest fires
-+ **consumes** entire forest
-+ what took **years** to grow
-  + consumed in **minutes**
-
----
-<!-- .slide: <%= bg("unsplash-Q1p7bh3SHj8-NASA_Gulf.jpg") %> -->
-The **tongue** also is a **fire**, <br/>
-a **world of evil** among the parts of the body.
-
-[James 3:6 (NIV)](# "ref")
-[Gulf of Mexico. NASA](https://unsplash.com/photos/Q1p7bh3SHj8 "caption")
-
->>>
-+ *world* (ὁ κόσμος): **totality**, complete ordering
-  + every *unrighteousness* can be **expressed** through tongue
-+ not **exclusive** to tongue
-  + e.g., **eyes**, finger, hands
-  + but **especially** tongue
-  + **stands**: established
-+ represents **speech**: me'to-ny-my
-  + **body** holy, created by God
-  + how we **use** it: world of evil
-
----
-<!-- .slide: <%= bg("flickr-gromgull-3375802661-wine_spill.jpg") %> -->
-It **corrupts** the whole body,
-
-[James 3:6 (NIV)](# "ref")
-[&copy; 2009 Gunnar Grimnes, CC-BY 2.0](https://www.flickr.com/photos/gromgull/3375802661 "caption")
-
->>>
-+ *corrupter* (ἡ σπιλοῦσα): spot, stain
-  + that which **spoils** all the body
-+ all **else** could be holy, but
-  + **one** unholy utterance, and
-+ **focus** on the stain
-  + like white **tablecloth** with wine spot
-+ **scandals**, e.g., Harvey Weinstein, Kevin Spacey
-  + don't think we are above it
-+ e.g. pastor quietly semi-retired
-
----
-<!-- .slide: <%= bg("unsplash-C2a4RGapd8s-light_paint_circle_fire.jpg") %> -->
-sets the whole **course** of one’s life on fire, <br/>
-and is itself set on fire by **hell**.
-
-[James 3:6 (NIV)](# "ref")
-[Peter John Maridable](https://unsplash.com/photos/C2a4RGapd8s "caption")
-
->>>
-+ *course of life* (τὸν τροχὸν τῆς γενέσεως):
-  + **wheel**, run: sequence / pattern
-+ *on fire* (φλογίζουσα): inflame, arouse
-  + c.f. v5 *kindle*
-  + easily **angered**, chip
-+ **hell** (τῆς γεέννης): valley of **Hinnom**
-  + trash/bodies **burned**
-
----
-<!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
-A **gentle answer** turns away wrath, <br>
-but a **harsh word** stirs up anger.
-
-[Proverbs 15:1 (NIV)](# "ref")
-
->>>
-+ not that **other's** anger
-  + is my **fault**,
-+ but **power** in one soft answer
++ God makes a **distinction**:
++ peace **only** to the **contrite**
++ must **repent**, ask for healing
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I believe my **words** <br> can affect the <br> **course** of my life?
+# Am I at **peace**?
+# With **others**, **self**, and **God**?
 
 >>>
++ How do you **obtain** peace?
 
 ---
-<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> class="outline" -->
-## Faith that Tames the Tongue <br/> [James 3a](# "ref")
-1. Course [(v6)](# "ref")
-2. **Control** [(v7-8)](# "ref")
-3. Cleanliness [(v9-10)](# "ref")
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="outline" -->
+## One Body in Christ [(Eph2)](# "ref")
++ Without Christ: <br> Former Enemies [(v11-13)](# "ref")
++ What Christ did: <br> Made at Peace [(v14-18)](# "ref")
++ **Life in Christ: <br> Growing Together** [(v19-22)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-M7fi58_dF5k-cow.jpg") %> -->
-All kinds of **animals**, birds, <br/>
-reptiles and sea creatures <br/>
-are being **tamed** <br>
-and have been tamed by **mankind**,
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
+You are no longer **foreigners and strangers**, <br/>
+but **fellow citizens** with God’s people
 
-[8](# "ref")
-but **no** human being can tame the **tongue**. </br>
-
-[James 3:7-8 (NIV)](# "ref")
-[Flängan, Norberg.  Adam Morse](https://unsplash.com/photos/M7fi58_dF5k "caption")
+[Ephesians 2:19 (NIV)](# "ref")
 
 >>>
-+ *tame*: **subdue**, master, control
-+ *animals*: wild **beasts**, brutes
-+ *by mankind*: (bend) to the **nature** of man
-+ *the tongue*, on the other hand:
-  + **contrast** animals vs our speech
++ **aliens** &rarr; fellow **citizens**
++ **not** of household &rarr; **household**
++ Ro9:25-26 (q. Ho1,2) *Lo-Ammi*
 
 ---
-<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
-He who is **slow** to anger <br>
-is better than the **mighty**,
+<!-- .slide: <%= bg("unsplash-agS-BtrQZrs-train_station.jpg") %> -->
+built on the **foundation** <br/>
+of the apostles and prophets,
 
-And he who rules his **spirit**, <br>
-than he who captures a **city**.
+with Christ Jesus himself <br/>
+as the **chief cornerstone**.
 
-[Proverbs 16:32 (NASB)](# "ref")
-[Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
+[Ephesians 2:20 (NIV)](# "ref")
 
 >>>
-+ often **unaware** of own speech
-+ e.g., wife gently **reminds**
-  + when get **sarcastic** with kid
++ **house**, harmony, plant
++ *foundation*: **laid** by apostles
+  + (1Co3:9-11 foundation is Christ)
++ **capstone** is Christ *(Ro9:30-33)*
+	+ 1Pe2:4-6 Living stone
+	+ :9-10 people of God
 
 ---
-<!-- .slide: <%= bg("unsplash-bPldxRHkTzw-snake.jpg") %> -->
-It is a **restless evil**, full of **deadly poison**.
+<!-- .slide: <%= bg("unsplash-cgPxN5Y27pA-cathedral.jpg") %> -->
+And **in him** you too are being **built together** <br/>
+to become a **dwelling** <br/>
+in which **God lives** by his Spirit.
 
-[James 3:8 (NIV)](# "ref")
-[Tainan City, Taiwan.  Boris Smokrovic](https://unsplash.com/photos/bPldxRHkTzw "caption")
+[Ephesians 2:22 (NIV)](# "ref")
 
 >>>
-+ *restless* (ἀκατάστατον): contrary to **standing** firm
-  + unrestrainable, **uncontrollable**
-+ *poison*: as of snake **venom** (Rom3:13)
-  + **rust**: corrosion (Jam5:3)
-+ *deadly*: **brings** / carries death
-
-+ So if tongue that **bad**,
-  + just keep **silent**?
-
----
-<!-- .slide: <%= bg("unsplash-y02jEX_B0O0-fountain_pen.jpg") %> -->
-For out of the abundance of the **heart** <br>
-the **mouth** speaks.
-
-[35](# "ref")
-The good **person** out of his good **treasure** <br>
-brings forth **good**, <br>
-and the evil **person** out of his evil **treasure** <br>
-brings forth **evil**.
-
-[Matthew 12:34-35 (ESV) (p.1/2)](# "ref")
-[Aaron Burden](https://unsplash.com/photos/y02jEX_B0O0 "caption")
-
->>>
-+ insinuated Jesus used **demon** to cast out demon
-+ can't just **bottle** up inside
-  + outwardly **polite**
-  + inwardly **resentful**
-+ heart **stores** up (treasures)
-  + then **overflows** into speech
-  + brings forth: **throws** out
-+ e.g., capable **wife**, resentful **hubby**:
-  + snipes at her in **other** areas: driving, looks, etc.
-
----
-<!-- .slide: <%= bg("unsplash-y02jEX_B0O0-fountain_pen.jpg") %> -->
-[36](# "ref")
-I tell you, on the day of **judgment** <br>
-people will give **account** <br>
-for every **careless word** they speak,
-
-[37](# "ref")
-for by your words you will be **justified**, <br>
-and by your words you will be **condemned**.
-
-[Matthew 12:36-37 (ESV) (p.2/2)](# "ref")
-
->>>
-+ careless: **useless**, without work
-  + doesn't **achieve** anything
-+ justified: deemed **righteous**
-  + Abram **believed** God (Gen 15:6)
-+ condemned: pronounce **guilty**, pass sentence
-  + deemed **unrighteous**
-
----
-<!-- .slide: <%= bg("human-ear-1462020301zmM.jpg") %> -->
-Everyone should be quick to **listen**, <br/>
-slow to **speak** and slow to become **angry**
-
-[James 1:19 (NIV)](# "ref")
++ What good is it to have
+  + church **programs**
+  + but no **Christ**?
++ **unity** in Christ &rArr;
+  + where Christ **dwells**
++ &rArr; **Bethel**: house of God
 
 ---
 <!-- .slide: data-background="white" -->
-# How have I **tried** and **failed** to **control** my **tongue**?
-
----
-<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> class="outline" -->
-## Faith that Tames the Tongue <br/> [James 3a](# "ref")
-1. Course [(v3-6)](# "ref")
-2. Control [(v7-8)](# "ref")
-3. **Cleanliness** [(v9-10)](# "ref")
+# Are **we** growing into a **Bethel**?
 
 >>>
----
-<!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
-With the tongue we **praise** <br>
-our Lord and Father,
-
-[James 3:9 (NIV)](# "ref")
-[Los Angeles. Edwin Andrade](https://unsplash.com/photos/6liebVeAfrY "caption")
-
->>>
-+ *praise* (εὐλογοῦμεν): **bless**, good word
++ Former **Enemies**
++ Made at **Peace** in Christ
++ **Growing** Together into a House of God
++ close by reading v21-22:
 
 ---
-<!-- .slide: <%= bg("fist.jpg") %> -->
-and with it we **curse** human beings, <br/>
-who have been made in God’s **likeness**.
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
+**In him** the whole building is **joined together** <br/>
+and rises to become a **holy temple** in the Lord.
 
-[James 3:9 (NIV)](# "ref")
+And **in him** you too are being **built together** <br/>
+to become a **dwelling** <br/>
+in which **God lives** by his Spirit.
 
->>>
-+ *curse* (καταρώμεθα): pronounce as **evil**
 
----
-<!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %> -->
-Out of the **same** mouth <br>
-come **praise** and **cursing**.
-
-My brothers and sisters, this **should not be**.
-
-[James 3:10 (NIV)](# "ref")
-[Litchfield National Park, Australia.  Andy Fitzsimon](https://unsplash.com/photos/w8g2vws1VBQ "caption")
-
->>>
-+ v11: fresh + salty/bitter water
-+ sister when small: crying, then pose for photo
-+ yelling at family, then answer phone sweetly
-+ mom pinch ear: embarrassed in public
-+ can't argue in the mall
+[Ephesians 2:21-22 (NIV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("stocksnap-CB8PFQR6E9-finger.jpg") %> -->
-What comes **out** of a person <br>
-is what defiles them.
-
-[21](# "ref")
-For it is from **within**, out of a person’s **heart**, <br/>
-that **evil** thoughts come —
-
-sexual immorality, theft, murder, adultery, <br/>
-greed, malice, deceit, lewdness, <br/>
-envy, slander, arrogance and folly.
-
-[Mark 7:20-21 (NIV)](# "ref")
-[Kevin Sequeira](https://stocksnap.io/photo/CB8PFQR6E9 "caption")
-
->>>
-+ not eating **food** that defiles
-+ but **speech** from overflow of heart
-+ have I stored up evil **thoughts**?
-  + lust, covet, hatred, pride
-+ **integrity**: one whole person
-
----
-<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
-Anyone who is never at **fault** <br>
-in what they **say**
-
-is **perfect**, <br>
-able to keep their whole body **in check**.
-
-[James 3:2 (NIV)](# "ref")
-
->>>
-+ lead by the **bridle** (as horse)
-
----
-<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
-But the wisdom from **above** is first **pure**, <br>
-then **peaceable**, gentle, open to reason, ...
-
-[James 3:17 (ESV)](# "ref")
-
->>>
-+ solution: rely on **Christ**
-  + to give us His **wisdom**
-+ next time, ch3b
-
----
-<!-- .slide: data-background="white" -->
-# Does my **pattern** <br> of speech **differ** <br> at home, at work, and at church?
-
->>>
-+ integrity / integral
-
----
-<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> class="outline" -->
-Anyone who is never at **fault** <br>
-in what they **say**
-
-is **perfect**, <br>
-able to keep their whole body **in check**.
-
-[James 3:2 (NIV)](# "ref")
-
----
-<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> class="empty" -->
