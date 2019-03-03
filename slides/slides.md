@@ -266,7 +266,6 @@ It is a **restless evil**, full of **deadly poison**.
 + *poison*: as of snake **venom** (Rom3:13)
   + **rust**: corrosion (Jam5:3)
 + *deadly*: **brings** / carries death
-
 + So if tongue that **bad**,
   + just keep **silent**?
 
